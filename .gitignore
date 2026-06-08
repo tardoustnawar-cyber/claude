@@ -1,0 +1,7 @@
+.cache/
+.config/
+.local/
+.npm-global/
+.npm/
+.npmrc
+.wget-hsts
