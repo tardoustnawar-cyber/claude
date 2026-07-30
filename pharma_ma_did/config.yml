@@ -1,0 +1,8 @@
+project: innovation_driven_ma_european_pharma
+seed: 20260730
+event_window: {pre: [-3,-2,-1], t0: 0, post: [1,2,3]}
+primary_outcomes: {H1: Patent_Family_Count, H2: ROA_pct}
+treatment: {innovation: 1, alternative: 0, borderline_excluded_from_strict: true}
+coverage_rule: {min_pre: 2, min_post: 2}
+inference: {cluster: Acquirer_Normalized, wild_cluster_bootstrap: true}
+status: PROVISIONAL_classification_unvalidated

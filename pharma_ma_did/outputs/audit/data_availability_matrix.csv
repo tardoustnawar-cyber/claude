@@ -1,0 +1,352 @@
+Deal_ID,Provisional_Classification,Acquirer_Normalized,Completion_Year,dup_drop,eligible_strict,fin_pre,fin_post,pat_pre,pat_post,in_H2_preferred,in_H1_preferred
+TRT-0001,Innovation-driven,les laboratoires servier,2020,False,True,0,0,0,0,False,False
+TRT-0002,Borderline/mixed motive,towa pharmaceutical,2020,False,True,0,0,0,0,False,False
+TRT-0003,Innovation-driven,pfizer,2019,False,True,0,0,0,0,False,False
+TRT-0004,Innovation-driven,gyroscope therapeutics,2019,False,False,0,0,0,0,False,False
+TRT-0005,Innovation-driven,trinetx,2019,False,True,0,0,0,0,False,False
+TRT-0006,Innovation-driven,bravo bidco,2019,False,True,0,0,0,0,False,False
+TRT-0007,Borderline/mixed motive,aphria,2019,False,False,0,0,0,0,False,False
+TRT-0008,Innovation-driven,ingenza,2018,False,False,0,0,0,0,False,False
+TRT-0009,Innovation-driven,telix pharmaceuticals,2018,False,True,0,0,0,0,False,False
+TRT-0010,Innovation-driven,sanofi,2018,False,True,3,3,3,3,True,True
+TRT-0011,Borderline/mixed motive,takeda pharmaceutical,2018,False,True,0,0,0,0,False,False
+TRT-0012,Innovation-driven,impilo ab,2017,False,False,0,0,0,0,False,False
+TRT-0013,Innovation-driven,kuur therapeutics,2017,False,True,0,0,0,0,False,False
+TRT-0014,Innovation-driven,astellas pharma,2017,False,True,0,0,0,0,False,False
+TRT-0015,Innovation-driven,boston scientific,2017,False,True,0,0,0,0,False,False
+TRT-0016,Innovation-driven,biolinerx,2017,False,True,0,0,0,0,False,False
+TRT-0017,Innovation-driven,mediolanum farmaceutici,2017,False,False,0,0,0,0,False,False
+TRT-0018,Borderline/mixed motive,agile pharma,2017,False,True,0,0,0,0,False,False
+TRT-0019,Innovation-driven,calliditas therapeutics france,2017,False,False,0,0,0,0,False,False
+TRT-0020,Innovation-driven,biogaia ab,2016,False,False,0,0,0,0,False,False
+TRT-0021,Innovation-driven,martindale pharma,2016,False,False,0,0,0,0,False,False
+TRT-0022,Innovation-driven,kalvista pharmaceuticals,2016,False,True,0,0,0,0,False,False
+TRT-0023,Borderline/mixed motive,albany molecular research,2016,False,True,0,0,0,0,False,False
+TRT-0024,Innovation-driven,vectura,2016,False,True,0,0,0,0,False,False
+TRT-0025,Innovation-driven,vectura,2016,False,False,0,0,0,0,False,False
+TRT-0026,Innovation-driven,relief therapeutics sonnet biotherapeutics ch,2016,False,False,0,0,0,0,False,False
+TRT-0027,Innovation-driven,biogaia ab,2015,False,False,0,0,0,0,False,False
+TRT-0028,Innovation-driven,chinook therapeutics,2015,False,True,1,3,0,3,False,False
+TRT-0029,Innovation-driven,stallergenes greer,2015,False,False,0,0,0,0,False,False
+TRT-0030,Borderline/mixed motive,stada arzneimittel,2015,False,True,0,0,0,0,False,False
+TRT-0031,Innovation-driven,tigenix,2015,False,False,0,0,0,0,False,False
+TRT-0032,Innovation-driven,auspex pharmaceuticals,2015,False,True,0,0,0,0,False,False
+TRT-0033,Innovation-driven,cadila pharmaceuticals sweden ab,2014,False,True,0,0,0,0,False,False
+TRT-0034,Borderline/mixed motive,nicox,2014,False,True,3,3,3,3,True,True
+TRT-0035,Innovation-driven,productlife,2014,False,False,0,0,0,0,False,False
+TRT-0036,Innovation-driven,correvio pharma,2013,False,True,0,0,0,0,False,False
+TRT-0037,Innovation-driven,abzena uk,2013,False,True,0,0,0,0,False,False
+TRT-0038,Innovation-driven,gsk,2013,False,False,3,3,2,3,True,True
+TRT-0039,Innovation-driven,eurofins scientific,2013,False,False,3,3,0,0,True,False
+TRT-0040,Borderline/mixed motive,alvogen,2012,False,False,0,0,0,0,False,False
+TRT-0041,Innovation-driven,enara,2012,False,False,0,0,0,0,False,False
+TRT-0042,Innovation-driven,agilent technologies,2012,False,True,0,0,0,0,False,False
+TRT-0043,Innovation-driven,biodexa ltd,2014,False,False,3,3,0,0,True,False
+TRT-0044,Innovation-driven,esteve pharmaceuticals sa,2020,True,False,0,0,0,0,False,False
+TRT-0045,Innovation-driven,shire plc inactive,2013,False,False,3,3,2,3,True,True
+CTL-0001,Alternative rationale,emmes,2020,False,True,0,0,0,0,False,False
+CTL-0002,Borderline/mixed motive,veraxa biotech,2020,False,True,0,0,0,0,False,False
+CTL-0003,Alternative rationale,link medical research,2020,False,True,0,0,0,0,False,False
+CTL-0004,Borderline/mixed motive,mendus ab,2020,False,True,0,0,0,0,False,False
+CTL-0005,Borderline/mixed motive,ucb,2020,False,True,3,3,3,3,True,True
+CTL-0006,Borderline/mixed motive,revvity,2020,False,True,0,0,0,0,False,False
+CTL-0007,Borderline/mixed motive,travere therapeutics,2020,False,True,0,0,0,0,False,False
+CTL-0008,Alternative rationale,stada arzneimittel,2020,False,True,0,0,0,0,False,False
+CTL-0009,Alternative rationale,coc farmaceutici,2020,False,True,0,0,0,0,False,False
+CTL-0010,Alternative rationale,,2020,False,False,0,0,0,0,False,False
+CTL-0011,Borderline/mixed motive,bayer,2020,False,True,0,0,0,0,False,False
+CTL-0012,Borderline/mixed motive,jrh asi,2020,False,False,0,0,0,0,False,False
+CTL-0013,Borderline/mixed motive,kreditanstalt fur wiederaufbau,2020,False,False,0,0,0,0,False,False
+CTL-0014,Alternative rationale,bbi,2020,False,True,0,0,0,0,False,False
+CTL-0015,Borderline/mixed motive,sygnature discovery,2020,False,True,0,0,0,0,False,False
+CTL-0016,Borderline/mixed motive,novavax,2020,False,True,0,0,0,0,False,False
+CTL-0017,Alternative rationale,serb,2020,False,True,0,0,0,0,False,False
+CTL-0018,Borderline/mixed motive,mediolanum farmaceutici,2020,False,True,0,0,0,0,False,False
+CTL-0019,Borderline/mixed motive,ascenion ifb innovationsstarter innovationsstarter hamburg,2020,False,True,0,0,0,0,False,False
+CTL-0020,Borderline/mixed motive,asklepios biopharmaceutical,2020,False,True,0,0,0,0,False,False
+CTL-0021,Borderline/mixed motive,astellas pharma europe,2020,False,True,0,0,0,0,False,False
+CTL-0022,Borderline/mixed motive,les laboratoires servier,2020,False,True,0,0,0,0,False,False
+CTL-0023,Borderline/mixed motive,ovoca bio,2020,False,False,0,0,0,0,False,False
+CTL-0024,Alternative rationale,norgine,2020,False,True,0,0,0,0,False,False
+CTL-0025,Borderline/mixed motive,dermapharm,2020,False,True,0,0,0,0,False,False
+CTL-0026,Alternative rationale,laboratoires equilibre attitude,2020,False,True,0,0,0,0,False,False
+CTL-0027,Alternative rationale,chilcott uk,2020,False,True,0,0,0,0,False,False
+CTL-0028,Alternative rationale,esteve pharmaceuticals,2020,False,True,3,1,0,0,False,False
+CTL-0029,Alternative rationale,towa pharmaceutical,2020,False,True,0,0,0,0,False,False
+CTL-0030,Alternative rationale,curium france,2019,False,True,0,0,0,0,False,False
+CTL-0031,Alternative rationale,biocodex,2020,False,True,0,0,0,0,False,False
+CTL-0032,Alternative rationale,linnane pharma ab,2019,False,False,0,0,0,0,False,False
+CTL-0033,Alternative rationale,klaria pharma ab,2019,False,True,0,0,0,0,False,False
+CTL-0034,Borderline/mixed motive,klaria pharma ab,2020,False,False,0,0,0,0,False,False
+CTL-0035,Borderline/mixed motive,stryker,2020,False,True,0,0,0,0,False,False
+CTL-0036,Alternative rationale,neopharmed gentili,2019,False,True,0,0,0,0,False,False
+CTL-0037,Alternative rationale,,2019,False,False,0,0,0,0,False,False
+CTL-0038,Alternative rationale,zentiva,2020,False,True,1,0,3,0,False,False
+CTL-0039,Borderline/mixed motive,meiragtx,2019,False,True,0,0,0,0,False,False
+CTL-0040,Alternative rationale,emeis,2019,False,False,0,0,0,0,False,False
+CTL-0041,Borderline/mixed motive,hero wellbeing,2019,False,False,0,0,0,0,False,False
+CTL-0042,Alternative rationale,canopy growth,2019,False,True,0,0,0,0,False,False
+CTL-0043,Borderline/mixed motive,nec,2019,False,True,0,0,0,0,False,False
+CTL-0044,Borderline/mixed motive,boehringer ingelheim international,2019,False,True,0,0,0,0,False,False
+CTL-0045,Borderline/mixed motive,lifespan biosciences,2019,False,True,0,0,0,0,False,False
+CTL-0046,Alternative rationale,b braun avitum,2019,False,True,0,0,0,0,False,False
+CTL-0047,Alternative rationale,tekni plex,2019,False,False,0,0,0,0,False,False
+CTL-0048,Alternative rationale,abbvie,2020,False,True,0,0,0,0,False,False
+CTL-0049,Borderline/mixed motive,pfizer,2019,False,True,0,0,0,0,False,False
+CTL-0050,Alternative rationale,ever neuro pharma,2019,False,True,0,0,0,0,False,False
+CTL-0051,Borderline/mixed motive,revvity,2019,False,True,0,0,0,0,False,False
+CTL-0052,Borderline/mixed motive,undisclosed,2019,False,False,0,0,0,0,False,False
+CTL-0053,Borderline/mixed motive,gyroscope therapeutics,2019,False,False,0,0,0,0,False,False
+CTL-0054,Borderline/mixed motive,trinetx,2019,False,True,0,0,0,0,False,False
+CTL-0055,Alternative rationale,zentiva,2019,False,True,2,0,3,1,False,False
+CTL-0056,Borderline/mixed motive,boehringer ingelheim international,2019,False,True,0,0,0,0,False,False
+CTL-0057,Borderline/mixed motive,pfizer,2019,False,False,0,0,0,0,False,False
+CTL-0058,Borderline/mixed motive,biogen,2019,False,True,0,0,0,0,False,False
+CTL-0059,Alternative rationale,charles river laboratories international,2019,False,True,0,0,0,0,False,False
+CTL-0060,Alternative rationale,neuraxpharm uk,2019,False,True,0,0,0,0,False,False
+CTL-0061,Alternative rationale,minaris regenerative medicine,2019,False,True,0,0,0,0,False,False
+CTL-0062,Borderline/mixed motive,immunic,2019,False,True,0,0,0,0,False,False
+CTL-0063,Alternative rationale,amarox,2019,False,True,0,0,0,0,False,False
+CTL-0064,Alternative rationale,recordati,2018,False,True,3,3,2,3,True,True
+CTL-0065,Alternative rationale,fuji pharma,2018,False,False,0,0,0,0,False,False
+CTL-0066,Alternative rationale,bravo bidco,2019,False,True,0,0,0,0,False,False
+CTL-0067,Alternative rationale,aphria,2019,False,False,0,0,0,0,False,False
+CTL-0068,Borderline/mixed motive,hifibio,2018,False,True,0,0,0,0,False,False
+CTL-0069,Alternative rationale,mundipharma international,2018,False,True,0,0,0,0,False,False
+CTL-0070,Borderline/mixed motive,,2018,False,False,0,0,0,0,False,False
+CTL-0071,Borderline/mixed motive,f hoffmann la roche,2018,False,True,3,3,3,3,True,True
+CTL-0072,Alternative rationale,clinigen,2018,False,True,0,0,0,0,False,False
+CTL-0073,Alternative rationale,ingenza,2018,False,False,0,0,0,0,False,False
+CTL-0074,Borderline/mixed motive,boehringer ingelheim international,2018,False,True,0,0,0,0,False,False
+CTL-0075,Borderline/mixed motive,telix pharmaceuticals,2018,False,True,0,0,0,0,False,False
+CTL-0076,Alternative rationale,china grand enterprises huadong medicine,2018,False,True,0,0,0,0,False,False
+CTL-0077,Alternative rationale,emergent biosolutions,2018,False,True,0,0,0,0,False,False
+CTL-0078,Borderline/mixed motive,astellas pharma,2018,False,True,0,0,0,0,False,False
+CTL-0079,Borderline/mixed motive,sangamo therapeutics,2018,False,True,0,0,0,0,False,False
+CTL-0080,Borderline/mixed motive,ryboquin,2018,False,True,0,0,0,0,False,False
+CTL-0081,Alternative rationale,eurobio scientific,2018,False,True,0,0,0,0,False,False
+CTL-0082,Alternative rationale,neuraxpharm uk,2018,False,True,0,0,0,0,False,False
+CTL-0083,Borderline/mixed motive,sophia genetics,2018,False,True,0,0,0,0,False,False
+CTL-0084,Borderline/mixed motive,orion biotechnology canada,2018,False,True,0,0,0,0,False,False
+CTL-0085,Borderline/mixed motive,gammadelta therapeutics,2018,False,True,0,0,0,0,False,False
+CTL-0086,Borderline/mixed motive,flash therapeutics,2018,False,False,0,0,0,0,False,False
+CTL-0087,Borderline/mixed motive,takeda pharmaceutical,2019,False,True,0,0,0,0,False,False
+CTL-0088,Borderline/mixed motive,deinove,2018,False,True,0,0,0,0,False,False
+CTL-0089,Borderline/mixed motive,alexion pharma nordics ab,2018,False,True,0,0,0,0,False,False
+CTL-0090,Borderline/mixed motive,promethera biosciences,2018,False,True,0,0,0,0,False,False
+CTL-0091,Alternative rationale,perfect concept,2018,False,False,0,0,0,0,False,False
+CTL-0092,Alternative rationale,boston scientific,2018,False,True,0,0,0,0,False,False
+CTL-0093,Borderline/mixed motive,sanofi,2018,False,True,0,0,0,0,False,False
+CTL-0094,Alternative rationale,spectris,2018,False,True,0,0,0,0,False,False
+CTL-0095,Borderline/mixed motive,eurofins scientific,2018,False,True,0,0,0,0,False,False
+CTL-0096,Alternative rationale,usv pvt,2018,False,True,1,3,3,2,False,True
+CTL-0097,Borderline/mixed motive,charles river laboratories international,2018,False,True,0,0,0,0,False,False
+CTL-0098,Alternative rationale,takeda pharmaceutical,2018,False,True,0,0,0,0,False,False
+CTL-0099,Alternative rationale,dermapharm,2018,False,True,0,0,0,0,False,False
+CTL-0100,Alternative rationale,curida,2018,False,True,0,0,0,0,False,False
+CTL-0101,Borderline/mixed motive,summit therapeutics,2017,False,True,0,0,0,0,False,False
+CTL-0102,Alternative rationale,dsm firmenich,2017,False,True,0,0,0,0,False,False
+CTL-0103,Borderline/mixed motive,tempest therapeutics,2017,False,True,0,0,0,0,False,False
+CTL-0104,Borderline/mixed motive,mindwalk,2018,False,False,0,0,0,0,False,False
+CTL-0105,Alternative rationale,undisclosed,2017,False,False,0,0,0,0,False,False
+CTL-0106,Alternative rationale,almac,2017,False,True,0,0,0,0,False,False
+CTL-0107,Borderline/mixed motive,vaxart,2018,False,False,3,3,3,3,True,True
+CTL-0108,Borderline/mixed motive,concept life sciences,2017,False,True,0,0,0,0,False,False
+CTL-0109,Alternative rationale,novartis,2018,False,True,0,0,0,0,False,False
+CTL-0110,Alternative rationale,fosun pharmaceutical,2017,False,True,0,0,0,0,False,False
+CTL-0111,Alternative rationale,undisclosed,2017,False,False,0,0,0,0,False,False
+CTL-0112,Alternative rationale,ever neuro pharma,2017,False,True,0,0,0,0,False,False
+CTL-0113,Alternative rationale,eurocept pharmaceuticals,2017,False,True,0,0,0,0,False,False
+CTL-0114,Borderline/mixed motive,vir biotechnology,2017,False,True,0,0,0,0,False,False
+CTL-0115,Alternative rationale,artivion,2017,False,True,0,0,0,0,False,False
+CTL-0116,Borderline/mixed motive,precision medicine,2017,False,True,0,0,0,0,False,False
+CTL-0117,Alternative rationale,evotec,2017,False,False,0,0,0,0,False,False
+CTL-0118,Alternative rationale,ergomed,2017,False,True,0,0,0,0,False,False
+CTL-0119,Borderline/mixed motive,genoway,2017,False,True,0,0,0,0,False,False
+CTL-0120,Borderline/mixed motive,nuformix,2017,False,False,0,0,0,0,False,False
+CTL-0121,Borderline/mixed motive,ascelia pharma ab,2017,False,True,0,0,0,0,False,False
+CTL-0122,Borderline/mixed motive,invicro,2017,False,True,0,0,0,0,False,False
+CTL-0123,Alternative rationale,laboratorios cinfa,2017,False,True,0,0,0,0,False,False
+CTL-0124,Alternative rationale,karo healthcare ab,2017,False,True,0,0,0,0,False,False
+CTL-0125,Alternative rationale,,2017,False,False,0,0,0,0,False,False
+CTL-0126,Alternative rationale,clinigen,2017,False,True,0,0,0,0,False,False
+CTL-0127,Alternative rationale,alvogen,2017,False,True,0,0,0,0,False,False
+CTL-0128,Alternative rationale,,2017,False,False,0,0,0,0,False,False
+CTL-0129,Alternative rationale,impilo ab,2017,False,False,0,0,0,0,False,False
+CTL-0130,Alternative rationale,nupharm italy,2017,False,True,0,0,0,0,False,False
+CTL-0131,Alternative rationale,,2017,False,False,0,0,0,0,False,False
+CTL-0132,Alternative rationale,thermo fisher scientific,2017,False,False,0,0,0,0,False,False
+CTL-0133,Borderline/mixed motive,,2017,False,False,0,0,0,0,False,False
+CTL-0134,Borderline/mixed motive,astellas pharma,2017,False,True,0,0,0,0,False,False
+CTL-0135,Alternative rationale,boston scientific,2017,False,True,0,0,0,0,False,False
+CTL-0136,Borderline/mixed motive,biolinerx,2017,False,True,0,0,0,0,False,False
+CTL-0137,Alternative rationale,diamyd medical ab,2017,False,False,0,0,0,0,False,False
+CTL-0138,Alternative rationale,roxall medizin,2017,False,True,0,0,0,0,False,False
+CTL-0139,Alternative rationale,johnson johnson,2017,False,True,0,0,0,0,False,False
+CTL-0140,Alternative rationale,agile pharma,2017,False,True,0,0,0,0,False,False
+CTL-0141,Borderline/mixed motive,calliditas therapeutics france,2017,False,False,0,0,0,0,False,False
+CTL-0142,Borderline/mixed motive,,2017,False,False,0,0,0,0,False,False
+CTL-0143,Borderline/mixed motive,,2016,False,False,0,0,0,0,False,False
+CTL-0144,Borderline/mixed motive,sienna biopharmaceuticals,2016,False,False,0,0,0,0,False,False
+CTL-0145,Borderline/mixed motive,biogaia ab,2016,False,False,0,0,0,0,False,False
+CTL-0146,Borderline/mixed motive,heptares therapeutics,2016,False,True,0,0,0,0,False,False
+CTL-0147,Alternative rationale,delivra health brands,2017,False,True,0,0,0,0,False,False
+CTL-0148,Alternative rationale,genesis care pty,2016,False,False,0,0,0,0,False,False
+CTL-0149,Alternative rationale,suanfarma,2016,False,True,0,0,0,0,False,False
+CTL-0150,Borderline/mixed motive,actavis formerly purepac pharmaceutical,2016,False,False,0,0,0,0,False,False
+CTL-0151,Alternative rationale,busy bees nurseries,2016,False,False,3,3,0,0,True,False
+CTL-0152,Alternative rationale,pharmstandard leksredstva,2016,False,False,0,0,0,0,False,False
+CTL-0153,Alternative rationale,,2016,False,False,0,0,0,0,False,False
+CTL-0154,Alternative rationale,amphastar pharmaceuticals,2016,False,True,0,0,0,0,False,False
+CTL-0155,Alternative rationale,undisclosed,2016,False,False,0,0,0,0,False,False
+CTL-0156,Alternative rationale,aur portfolio iii kgaa,2016,False,False,0,0,0,0,False,False
+CTL-0157,Borderline/mixed motive,cell medica,2016,False,False,0,0,0,0,False,False
+CTL-0158,Alternative rationale,martindale pharma,2016,False,False,0,0,0,0,False,False
+CTL-0159,Alternative rationale,,2016,False,False,0,0,0,0,False,False
+CTL-0160,Alternative rationale,augment investments,2016,False,False,0,0,0,0,False,False
+CTL-0161,Borderline/mixed motive,kalvista pharmaceuticals,2016,False,True,0,0,0,0,False,False
+CTL-0162,Borderline/mixed motive,polpharma,2016,False,True,0,0,0,0,False,False
+CTL-0163,Alternative rationale,nmc health,2016,False,False,0,0,0,0,False,False
+CTL-0164,Alternative rationale,augment investments,2016,False,False,0,0,0,0,False,False
+CTL-0165,Alternative rationale,avadel pharmaceuticals,2017,False,False,0,0,0,0,False,False
+CTL-0166,Borderline/mixed motive,creat,2016,False,True,0,0,0,0,False,False
+CTL-0167,Alternative rationale,albany molecular research,2016,False,True,0,0,0,0,False,False
+CTL-0168,Borderline/mixed motive,texcell,2016,False,True,0,0,0,0,False,False
+CTL-0169,Alternative rationale,bio gate,2016,False,False,0,0,0,0,False,False
+CTL-0170,Borderline/mixed motive,siemens healthineers a g,2016,False,False,0,0,0,0,False,False
+CTL-0171,Alternative rationale,jazz pharmaceuticals,2016,False,True,0,0,0,0,False,False
+CTL-0172,Alternative rationale,vectura,2016,False,True,3,3,3,3,True,True
+CTL-0173,Alternative rationale,vectura,2016,True,False,0,0,0,0,False,False
+CTL-0174,Borderline/mixed motive,spark therapeutics,2016,False,False,0,0,0,0,False,False
+CTL-0175,Borderline/mixed motive,c4x discovery,2016,False,True,0,0,0,0,False,False
+CTL-0176,Alternative rationale,n4 pharma,2016,False,False,0,0,0,0,False,False
+CTL-0177,Alternative rationale,viatris,2016,False,True,0,0,0,0,False,False
+CTL-0178,Borderline/mixed motive,adverum biotechnologies,2016,False,True,0,0,0,0,False,False
+CTL-0179,Borderline/mixed motive,undisclosed,2016,False,True,0,0,0,0,False,False
+CTL-0180,Alternative rationale,sbi,2016,False,False,0,0,0,0,False,False
+CTL-0181,Alternative rationale,sbi,2016,True,False,0,0,0,0,False,False
+CTL-0182,Borderline/mixed motive,abliva ab,2016,False,False,0,0,0,0,False,False
+CTL-0183,Borderline/mixed motive,abliva ab,2016,False,False,0,0,0,0,False,False
+CTL-0184,Borderline/mixed motive,relief therapeutics sonnet biotherapeutics ch,2016,False,False,0,0,0,0,False,False
+CTL-0185,Alternative rationale,s a mithra pharmaceutical n v,2015,False,False,0,0,0,0,False,False
+CTL-0186,Alternative rationale,swedbank robur fonder ab,2015,False,False,0,0,0,0,False,False
+CTL-0187,Borderline/mixed motive,biogaia ab,2015,False,False,0,0,0,0,False,False
+CTL-0188,Borderline/mixed motive,reprocell,2015,False,True,0,0,0,0,False,False
+CTL-0189,Alternative rationale,groupe synerlab,2015,False,False,0,0,0,0,False,False
+CTL-0190,Borderline/mixed motive,ixico,2015,False,True,0,0,0,0,False,False
+CTL-0191,Alternative rationale,charles river laboratories international,2015,False,False,0,0,0,0,False,False
+CTL-0192,Borderline/mixed motive,undisclosed,2015,False,False,0,0,0,0,False,False
+CTL-0193,Borderline/mixed motive,salvarx,2016,False,False,0,0,0,0,False,False
+CTL-0194,Borderline/mixed motive,tarrex biopharma,2015,False,False,0,0,0,0,False,False
+CTL-0195,Borderline/mixed motive,sergej ovodov alexander knoll,2015,False,True,0,0,0,0,False,False
+CTL-0196,Alternative rationale,amryt pharma,2016,False,True,0,0,0,0,False,False
+CTL-0197,Alternative rationale,omnicare kg,2015,False,False,0,0,0,0,False,False
+CTL-0198,Alternative rationale,ethypharm s a,2015,False,True,2,0,3,3,False,True
+CTL-0199,Borderline/mixed motive,chinook therapeutics,2015,False,True,0,0,0,0,False,False
+CTL-0200,Alternative rationale,stallergenes greer,2015,False,False,0,0,0,0,False,False
+CTL-0201,Alternative rationale,stada arzneimittel,2015,False,True,0,0,0,0,False,False
+CTL-0202,Borderline/mixed motive,tigenix,2015,False,False,3,2,2,0,True,False
+CTL-0203,Alternative rationale,hikma pharmaceuticals,2016,False,True,0,0,0,0,False,False
+CTL-0204,Borderline/mixed motive,innokeys pte,2015,False,True,0,0,0,0,False,False
+CTL-0205,Alternative rationale,curia global,2015,False,True,0,0,0,0,False,False
+CTL-0206,Alternative rationale,quantum pharmaceutical,2015,False,True,0,0,0,0,False,False
+CTL-0207,Alternative rationale,zambon,2015,False,False,3,3,3,3,True,True
+CTL-0208,Alternative rationale,praktikerinvest aktiebolag recipharm venture fund ab foundation for baltic and east european studies,2015,False,False,0,0,0,0,False,False
+CTL-0209,Alternative rationale,novotek,2015,False,False,0,0,0,0,False,False
+CTL-0210,Borderline/mixed motive,vbc,2015,False,False,0,0,0,0,False,False
+CTL-0211,Borderline/mixed motive,circio asa,2015,False,False,0,0,0,0,False,False
+CTL-0212,Alternative rationale,unimedic ab,2015,False,True,0,0,0,0,False,False
+CTL-0213,Alternative rationale,amdipharm mercury,2015,False,False,0,0,0,0,False,False
+CTL-0214,Alternative rationale,niox,2015,False,True,0,0,0,0,False,False
+CTL-0215,Alternative rationale,niox,2015,False,True,0,0,0,0,False,False
+CTL-0216,Alternative rationale,augment investments,2015,False,False,0,0,0,0,False,False
+CTL-0217,Alternative rationale,pelgar international,2015,False,False,0,0,0,0,False,False
+CTL-0218,Alternative rationale,undisclosed,2015,False,True,0,0,0,0,False,False
+CTL-0219,Borderline/mixed motive,mikhail mogutov,2015,False,False,0,0,0,0,False,False
+CTL-0220,Alternative rationale,quantum pharmaceutical,2015,False,True,0,0,0,0,False,False
+CTL-0221,Alternative rationale,almi invest ab karo healthcare ab,2015,False,True,0,0,0,0,False,False
+CTL-0222,Borderline/mixed motive,foundation for baltic and east european studies,2015,False,False,0,0,0,0,False,False
+CTL-0223,Borderline/mixed motive,kite pharma,2015,False,False,0,0,0,0,False,False
+CTL-0224,Alternative rationale,undisclosed,2015,False,False,0,0,0,0,False,False
+CTL-0225,Alternative rationale,myriad genetics,2015,False,True,0,0,0,0,False,False
+CTL-0226,Alternative rationale,livanova,2015,False,False,0,0,0,0,False,False
+CTL-0227,Borderline/mixed motive,nxera pharma,2015,False,True,0,0,0,0,False,False
+CTL-0228,Borderline/mixed motive,precigen,2015,False,True,0,0,0,0,False,False
+CTL-0229,Borderline/mixed motive,gsk,2015,False,False,3,3,3,3,True,True
+CTL-0230,Borderline/mixed motive,roche,2015,False,False,0,0,0,0,False,False
+CTL-0231,Alternative rationale,linical americas,2015,False,False,0,0,0,0,False,False
+CTL-0232,Borderline/mixed motive,ppf sotio biotech,2015,False,False,0,0,0,0,False,False
+CTL-0233,Borderline/mixed motive,incanthera,2015,False,False,0,0,0,0,False,False
+CTL-0234,Borderline/mixed motive,f hoffmann la roche,2015,False,True,3,3,3,3,True,True
+CTL-0235,Alternative rationale,orkla home personal care,2015,False,True,0,0,0,0,False,False
+CTL-0236,Alternative rationale,orkla asa,2015,False,True,0,0,0,0,False,False
+CTL-0237,Borderline/mixed motive,biogen,2015,False,True,0,0,0,0,False,False
+CTL-0238,Borderline/mixed motive,biogen,2015,False,False,0,0,0,0,False,False
+CTL-0239,Borderline/mixed motive,auspex pharmaceuticals,2015,False,True,0,0,0,0,False,False
+CTL-0240,Borderline/mixed motive,horizon discovery,2015,False,False,0,0,0,0,False,False
+CTL-0241,Borderline/mixed motive,schering plough,2014,False,False,0,0,0,0,False,False
+CTL-0242,Borderline/mixed motive,biodexa,2014,False,False,0,0,0,0,False,False
+CTL-0243,Alternative rationale,perrigo,2015,False,False,0,0,0,0,False,False
+CTL-0244,Alternative rationale,zogenix,2014,False,False,0,0,0,0,False,False
+CTL-0245,Alternative rationale,abingdon health,2014,False,False,0,0,0,0,False,False
+CTL-0246,Borderline/mixed motive,cadila pharmaceuticals sweden ab,2014,False,True,0,0,0,0,False,False
+CTL-0247,Borderline/mixed motive,immutep,2014,False,True,0,0,0,0,False,False
+CTL-0248,Alternative rationale,assistances medicales specialisees,2014,False,False,0,0,0,0,False,False
+CTL-0249,Alternative rationale,nicox,2014,False,True,0,0,0,0,False,False
+CTL-0250,Borderline/mixed motive,actinogen medical,2014,False,True,0,0,0,0,False,False
+CTL-0251,Borderline/mixed motive,cilag international,2014,False,False,0,0,0,0,False,False
+CTL-0252,Alternative rationale,abbey pharma trading intrapharm laboratories,2014,False,False,0,0,0,0,False,False
+CTL-0253,Alternative rationale,simbec orion,2014,False,False,0,0,0,0,False,False
+CTL-0254,Alternative rationale,evotec,2014,False,True,0,0,0,0,False,False
+CTL-0255,Alternative rationale,futurelife a s,2014,False,False,0,0,0,0,False,False
+CTL-0256,Alternative rationale,abbott laboratories,2014,False,False,0,0,0,0,False,False
+CTL-0257,Alternative rationale,riemser pharma formerly riemser arzneimittel,2014,False,False,0,0,0,0,False,False
+CTL-0258,Alternative rationale,herantis pharma,2014,False,False,0,0,0,0,False,False
+CTL-0259,Borderline/mixed motive,morood invest,2014,False,False,0,0,0,0,False,False
+CTL-0260,Borderline/mixed motive,ppf,2014,False,False,0,0,0,0,False,False
+CTL-0261,Alternative rationale,horizon therapeutics,2014,False,False,0,0,0,0,False,False
+CTL-0262,Borderline/mixed motive,charles river laboratories international,2014,False,False,0,0,0,0,False,False
+CTL-0263,Borderline/mixed motive,vectura,2014,False,True,3,3,3,3,True,True
+CTL-0264,Borderline/mixed motive,vectura,2014,True,False,0,0,0,0,False,False
+CTL-0265,Alternative rationale,incanthera,2014,False,False,0,0,0,0,False,False
+CTL-0266,Borderline/mixed motive,oxford gene technology,2014,False,False,0,0,0,0,False,False
+CTL-0267,Alternative rationale,minerva neurosciences,2014,False,True,0,0,0,0,False,False
+CTL-0268,Alternative rationale,productlife,2014,False,False,0,0,0,0,False,False
+CTL-0269,Borderline/mixed motive,medigene,2014,False,True,0,0,0,0,False,False
+CTL-0270,Borderline/mixed motive,medigene,2014,False,True,0,0,0,0,False,False
+CTL-0271,Borderline/mixed motive,agenus,2014,False,True,0,0,0,0,False,False
+CTL-0272,Alternative rationale,aratana therapeutics,2014,False,False,0,0,0,0,False,False
+CTL-0273,Alternative rationale,amdipharm mercury,2013,False,False,0,0,0,0,False,False
+CTL-0274,Borderline/mixed motive,bayer,2014,False,False,0,0,0,0,False,False
+CTL-0275,Alternative rationale,correvio pharma,2013,False,True,3,3,0,0,True,False
+CTL-0276,Alternative rationale,xenetic biosciences,2013,False,True,0,0,0,0,False,False
+CTL-0277,Alternative rationale,safic alcan,2013,False,False,0,0,0,0,False,False
+CTL-0278,Alternative rationale,recordati s p a,2013,False,True,0,0,0,0,False,False
+CTL-0279,Alternative rationale,merz pharma kgaa,2013,False,False,2,0,2,3,False,True
+CTL-0280,Borderline/mixed motive,perrigo,2013,False,False,0,0,0,0,False,False
+CTL-0281,Borderline/mixed motive,ipsen s a,2013,False,False,3,3,2,3,True,True
+CTL-0282,Alternative rationale,fuhrer family,2013,False,False,0,0,0,0,False,False
+CTL-0283,Borderline/mixed motive,medicines,2013,False,True,0,0,0,0,False,False
+CTL-0284,Borderline/mixed motive,gsk,2013,True,False,0,0,0,0,False,False
+CTL-0285,Alternative rationale,pharmstandard,2013,False,False,0,0,0,0,False,False
+CTL-0286,Alternative rationale,opko health,2013,False,False,0,0,0,0,False,False
+CTL-0287,Alternative rationale,amdipharm mercury,2013,False,False,0,0,0,0,False,False
+CTL-0288,Borderline/mixed motive,shire,2013,True,False,0,0,0,0,False,False
+CTL-0289,Alternative rationale,care uk,2013,False,False,0,0,0,0,False,False
+CTL-0290,Alternative rationale,eurofins scientific,2013,False,False,0,0,0,0,False,False
+CTL-0291,Borderline/mixed motive,,2013,False,False,0,0,0,0,False,False
+CTL-0292,Alternative rationale,advanced accelerator applications,2013,False,True,0,0,0,0,False,False
+CTL-0293,Alternative rationale,alvogen,2012,False,False,0,0,0,0,False,False
+CTL-0294,Alternative rationale,,2013,False,False,0,0,0,0,False,False
+CTL-0295,Alternative rationale,hospiten gestion,2012,False,False,0,0,0,0,False,False
+CTL-0296,Alternative rationale,basf,2013,False,False,0,0,0,0,False,False
+CTL-0297,Alternative rationale,illumina,2012,False,True,0,0,0,0,False,False
+CTL-0298,Alternative rationale,recordati s p a,2012,False,True,3,3,0,0,True,False
+CTL-0299,Alternative rationale,enara,2012,False,False,0,0,0,0,False,False
+CTL-0300,Alternative rationale,cfao,2012,False,False,0,0,0,0,False,False
+CTL-0301,Alternative rationale,dermapharm,2012,False,False,0,0,0,0,False,False
+CTL-0302,Borderline/mixed motive,upsher smith laboratories,2012,False,True,0,0,0,0,False,False
+CTL-0303,Alternative rationale,carefusion,2012,False,False,0,0,0,0,False,False
+CTL-0304,Alternative rationale,agilent technologies,2012,False,True,0,0,0,0,False,False
+CTL-0305,Alternative rationale,active assistance,2012,False,False,0,0,0,0,False,False
+CTL-0306,Alternative rationale,novavision,2012,False,True,0,0,0,0,False,False

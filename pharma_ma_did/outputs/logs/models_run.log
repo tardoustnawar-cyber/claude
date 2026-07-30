@@ -1,0 +1,632 @@
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  65
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     23.612 |       15.651 |     1.509 |      0.162 | -11.261 |  58.485 |
+| Post          |      1.255 |        8.909 |     0.141 |      0.891 | -18.596 |  21.105 |
+---
+RMSE: 13.596 R2: 0.752 R2 Within: 0.141 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  65
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     23.612 |       15.651 |     1.509 |      0.162 | -11.261 |  58.485 |
+| Post          |      1.255 |        8.909 |     0.141 |      0.891 | -18.596 |  21.105 |
+---
+RMSE: 13.596 R2: 0.752 R2 Within: 0.141 
+###
+
+Estimation:  OLS
+Dep. var.: Operating_Margin_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  69
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |     2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|---------:|--------:|
+| TxP           |   -215.670 |      268.162 |    -0.804 |      0.438 | -805.891 | 374.550 |
+| Post          |    262.012 |      177.211 |     1.479 |      0.167 | -128.027 | 652.052 |
+---
+RMSE: 264.882 R2: 0.547 R2 Within: 0.047 
+###
+
+Estimation:  OLS
+Dep. var.: Operating_Margin_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  69
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |     2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|---------:|--------:|
+| TxP           |   -215.670 |      268.162 |    -0.804 |      0.438 | -805.891 | 374.550 |
+| Post          |    262.012 |      177.211 |     1.479 |      0.167 | -128.027 | 652.052 |
+---
+RMSE: 264.882 R2: 0.547 R2 Within: 0.047 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  49
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |      0.671 |        2.605 |     0.258 |      0.803 | -5.337 |   6.679 |
+| Post          |      1.551 |        2.713 |     0.572 |      0.583 | -4.705 |   7.806 |
+---
+RMSE: 3.503 R2: 0.851 R2 Within: 0.009 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  49
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |      0.671 |        2.605 |     0.258 |      0.803 | -5.337 |   6.679 |
+| Post          |      1.551 |        2.713 |     0.572 |      0.583 | -4.705 |   7.806 |
+---
+RMSE: 3.503 R2: 0.851 R2 Within: 0.009 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  49
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |      0.370 |        0.612 |     0.605 |      0.562 | -1.040 |   1.781 |
+| Post          |     -0.095 |        0.348 |    -0.272 |      0.793 | -0.896 |   0.707 |
+---
+RMSE: 0.488 R2: 0.864 R2 Within: 0.024 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  49
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |      0.370 |        0.612 |     0.605 |      0.562 | -1.040 |   1.781 |
+| Post          |     -0.095 |        0.348 |    -0.272 |      0.793 | -0.896 |   0.707 |
+---
+RMSE: 0.488 R2: 0.864 R2 Within: 0.024 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  76
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     20.100 |       14.882 |     1.351 |      0.207 | -13.060 |  53.260 |
+| Post          |      6.031 |        6.084 |     0.991 |      0.345 |  -7.525 |  19.587 |
+---
+RMSE: 13.668 R2: 0.719 R2 Within: 0.134 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  76
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     20.100 |       14.882 |     1.351 |      0.207 | -13.060 |  53.260 |
+| Post          |      6.031 |        6.084 |     0.991 |      0.345 |  -7.525 |  19.587 |
+---
+RMSE: 13.668 R2: 0.719 R2 Within: 0.134 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  27
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |      1.273 |        1.211 |     1.051 |      0.352 |  -2.090 |   4.636 |
+| Post          |    -16.078 |        2.998 |    -5.364 |      0.006 | -24.401 |  -7.756 |
+---
+RMSE: 11.648 R2: 0.697 R2 Within: 0.033 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  27
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |      1.273 |        1.211 |     1.051 |      0.352 |  -2.090 |   4.636 |
+| Post          |    -16.078 |        2.998 |    -5.364 |      0.006 | -24.401 |  -7.756 |
+---
+RMSE: 11.648 R2: 0.697 R2 Within: 0.033 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  71
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     21.151 |       12.970 |     1.631 |      0.131 |  -7.394 |  49.697 |
+| Post          |     -1.026 |        8.365 |    -0.123 |      0.905 | -19.437 |  17.385 |
+---
+RMSE: 13.263 R2: 0.748 R2 Within: 0.12 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  71
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     21.151 |       12.970 |     1.631 |      0.131 |  -7.394 |  49.697 |
+| Post          |     -1.026 |        8.365 |    -0.123 |      0.905 | -19.437 |  17.385 |
+---
+RMSE: 13.263 R2: 0.748 R2 Within: 0.12 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  65
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |      7.791 |        6.103 |     1.277 |      0.231 |  -5.806 |  21.389 |
+| Post          |     -3.842 |        5.098 |    -0.754 |      0.468 | -15.202 |   7.517 |
+---
+RMSE: 7.087 R2: 0.858 R2 Within: 0.058 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  65
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |      7.791 |        6.103 |     1.277 |      0.231 |  -5.806 |  21.389 |
+| Post          |     -3.842 |        5.098 |    -0.754 |      0.468 | -15.202 |   7.517 |
+---
+RMSE: 7.087 R2: 0.858 R2 Within: 0.058 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  27
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |      1.020 |        3.857 |     0.264 |      0.805 | -9.688 |  11.727 |
+| Post          |     -1.247 |        2.847 |    -0.438 |      0.684 | -9.150 |   6.657 |
+---
+RMSE: 4.144 R2: 0.866 R2 Within: 0.004 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  27
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |      1.020 |        3.857 |     0.264 |      0.805 | -9.688 |  11.727 |
+| Post          |     -1.247 |        2.847 |    -0.438 |      0.684 | -9.150 |   6.657 |
+---
+RMSE: 4.144 R2: 0.866 R2 Within: 0.004 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  55
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |     -0.027 |        2.015 |    -0.013 |      0.990 | -4.584 |   4.531 |
+| Post          |      1.937 |        2.225 |     0.871 |      0.406 | -3.096 |   6.971 |
+---
+RMSE: 3.365 R2: 0.85 R2 Within: 0.009 
+###
+
+Estimation:  OLS
+Dep. var.: Patent_Family_Count, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  55
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |   2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|-------:|--------:|
+| TxP           |     -0.027 |        2.015 |    -0.013 |      0.990 | -4.584 |   4.531 |
+| Post          |      1.937 |        2.225 |     0.871 |      0.406 | -3.096 |   6.971 |
+---
+RMSE: 3.365 R2: 0.85 R2 Within: 0.009 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |      8.572 |        9.150 |     0.937 |      0.373 | -12.128 |  29.271 |
+| Post          |     -4.456 |        6.848 |    -0.651 |      0.531 | -19.947 |  11.034 |
+---
+RMSE: 10.661 R2: 0.581 R2 Within: 0.031 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |      8.572 |        9.150 |     0.937 |      0.373 | -12.128 |  29.271 |
+| Post          |     -4.456 |        6.848 |    -0.651 |      0.531 | -19.947 |  11.034 |
+---
+RMSE: 10.661 R2: 0.581 R2 Within: 0.031 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     23.602 |       15.271 |     1.546 |      0.157 | -10.944 |  58.148 |
+| Post          |      2.962 |       12.471 |     0.237 |      0.818 | -25.249 |  31.173 |
+---
+RMSE: 14.157 R2: 0.752 R2 Within: 0.14 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     23.602 |       15.271 |     1.546 |      0.157 | -10.944 |  58.148 |
+| Post          |      2.962 |       12.471 |     0.237 |      0.818 | -25.249 |  31.173 |
+---
+RMSE: 14.157 R2: 0.752 R2 Within: 0.14 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     16.335 |       15.733 |     1.038 |      0.326 | -19.257 |  51.926 |
+| Post          |      3.135 |        8.030 |     0.390 |      0.705 | -15.031 |  21.302 |
+---
+RMSE: 10.847 R2: 0.815 R2 Within: 0.106 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     16.335 |       15.733 |     1.038 |      0.326 | -19.257 |  51.926 |
+| Post          |      3.135 |        8.030 |     0.390 |      0.705 | -15.031 |  21.302 |
+---
+RMSE: 10.847 R2: 0.815 R2 Within: 0.106 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     26.741 |       17.070 |     1.567 |      0.152 | -11.874 |  65.357 |
+| Post          |      2.149 |        9.172 |     0.234 |      0.820 | -18.599 |  22.898 |
+---
+RMSE: 13.805 R2: 0.765 R2 Within: 0.173 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     26.741 |       17.070 |     1.567 |      0.152 | -11.874 |  65.357 |
+| Post          |      2.149 |        9.172 |     0.234 |      0.820 | -18.599 |  22.898 |
+---
+RMSE: 13.805 R2: 0.765 R2 Within: 0.173 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     25.247 |       17.459 |     1.446 |      0.182 | -14.248 |  64.742 |
+| Post          |      2.420 |        9.428 |     0.257 |      0.803 | -18.908 |  23.748 |
+---
+RMSE: 13.635 R2: 0.769 R2 Within: 0.162 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     25.247 |       17.459 |     1.446 |      0.182 | -14.248 |  64.742 |
+| Post          |      2.420 |        9.428 |     0.257 |      0.803 | -18.908 |  23.748 |
+---
+RMSE: 13.635 R2: 0.769 R2 Within: 0.162 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  57
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     26.386 |       17.286 |     1.526 |      0.161 | -12.718 |  65.489 |
+| Post          |     -0.373 |        9.640 |    -0.039 |      0.970 | -22.180 |  21.434 |
+---
+RMSE: 14.408 R2: 0.745 R2 Within: 0.152 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  57
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     26.386 |       17.286 |     1.526 |      0.161 | -12.718 |  65.489 |
+| Post          |     -0.373 |        9.640 |    -0.039 |      0.970 | -22.180 |  21.434 |
+---
+RMSE: 14.408 R2: 0.745 R2 Within: 0.152 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  60
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     30.756 |       15.842 |     1.941 |      0.084 |  -5.080 |  66.592 |
+| Post          |     -6.573 |        5.422 |    -1.212 |      0.256 | -18.838 |   5.692 |
+---
+RMSE: 13.437 R2: 0.771 R2 Within: 0.197 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  60
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     30.756 |       15.842 |     1.941 |      0.084 |  -5.080 |  66.592 |
+| Post          |     -6.573 |        5.422 |    -1.212 |      0.256 | -18.838 |   5.692 |
+---
+RMSE: 13.437 R2: 0.771 R2 Within: 0.197 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  57
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     33.167 |       19.244 |     1.724 |      0.119 | -10.365 |  76.699 |
+| Post          |      2.676 |        8.806 |     0.304 |      0.768 | -17.244 |  22.597 |
+---
+RMSE: 13.999 R2: 0.765 R2 Within: 0.199 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  57
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     33.167 |       19.244 |     1.724 |      0.119 | -10.365 |  76.699 |
+| Post          |      2.676 |        8.806 |     0.304 |      0.768 | -17.244 |  22.597 |
+---
+RMSE: 13.999 R2: 0.765 R2 Within: 0.199 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     25.087 |       17.328 |     1.448 |      0.182 | -14.111 |  64.285 |
+| Post          |     -0.030 |        9.387 |    -0.003 |      0.998 | -21.265 |  21.205 |
+---
+RMSE: 13.592 R2: 0.766 R2 Within: 0.156 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     25.087 |       17.328 |     1.448 |      0.182 | -14.111 |  64.285 |
+| Post          |     -0.030 |        9.387 |    -0.003 |      0.998 | -21.265 |  21.205 |
+---
+RMSE: 13.592 R2: 0.766 R2 Within: 0.156 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     22.634 |       15.004 |     1.509 |      0.166 | -11.307 |  56.576 |
+| Post          |      7.587 |       10.555 |     0.719 |      0.490 | -16.289 |  31.463 |
+---
+RMSE: 13.954 R2: 0.76 R2 Within: 0.145 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     22.634 |       15.004 |     1.509 |      0.166 | -11.307 |  56.576 |
+| Post          |      7.587 |       10.555 |     0.719 |      0.490 | -16.289 |  31.463 |
+---
+RMSE: 13.954 R2: 0.76 R2 Within: 0.145 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     24.068 |       15.484 |     1.554 |      0.155 | -10.961 |  59.096 |
+| Post          |      2.947 |       12.572 |     0.234 |      0.820 | -25.494 |  31.387 |
+---
+RMSE: 14.224 R2: 0.749 R2 Within: 0.136 
+###
+
+Estimation:  OLS
+Dep. var.: ROA_pct, Fixed effects: Deal_ID + Calendar_Year
+sample: None = all
+Inference:  CRV1
+Observations:  59
+
+| Coefficient   |   Estimate |   Std. Error |   t value |   Pr(>|t|) |    2.5% |   97.5% |
+|:--------------|-----------:|-------------:|----------:|-----------:|--------:|--------:|
+| TxP           |     24.068 |       15.484 |     1.554 |      0.155 | -10.961 |  59.096 |
+| Post          |      2.947 |       12.572 |     0.234 |      0.820 | -25.494 |  31.387 |
+---
+RMSE: 14.224 R2: 0.749 R2 Within: 0.136 
+=== MAIN DiD ===
+             panel              outcome                                                spec  beta_TxP       se    ci_low  ci_high  p_cluster  p_wildboot  n_obs  n_deals  n_clusters  pre_mean_outcome
+     H2_ROA_strict              ROA_pct Baseline DiD, ROA, strict innovation vs alternative   23.6120  15.6512  -11.2610  58.4850     0.1623      0.3025     66       11          11            -2.119
+H2_OpMargin_strict Operating_Margin_pct          Baseline DiD, operating margin (secondary) -215.6702 268.1621 -805.8909 374.5505     0.4383      0.6533     70       12          12          -147.464
+ H1_Patents_strict  Patent_Family_Count        Baseline linear DiD, patent families, strict    0.6710   2.6054   -5.3370   6.6790     0.8033      0.7742     49        9           9             6.696
+   H1_Patents_PPML  Patent_Family_Count                           FE-Poisson (PPML), strict    0.2122   0.4268   -0.6243   1.0487     0.6190         NaN     49        9           9               NaN
+    H1_Patents_IHS  Patent_Family_Count                    IHS(patent families) DiD, strict    0.3702   0.6116   -1.0403   1.7806     0.5618      0.5797     49        9           9             1.797
+
+=== EVENT STUDY (pretrend joint p: ROA=0.179, patents=0.000) ===
+     panel  event_time     beta      se   ci_low  ci_high  joint_pretrend_p
+    H2_ROA          -3 -33.1001 18.2386 -73.7383   7.5380      1.786716e-01
+    H2_ROA          -2   0.6372 12.6557 -27.5614  28.8358      1.786716e-01
+    H2_ROA          -1   0.0000  0.0000   0.0000   0.0000      1.786716e-01
+    H2_ROA           0   2.4042 20.5090 -43.2927  48.1010      1.786716e-01
+    H2_ROA           1  17.1643 20.0405 -27.4887  61.8173      1.786716e-01
+    H2_ROA           2  15.0871 15.5325 -19.5214  49.6957      1.786716e-01
+    H2_ROA           3   2.6548 13.4521 -27.3184  32.6279      1.786716e-01
+H1_Patents          -3 -19.3580  3.2142 -26.7698 -11.9461      1.224109e-15
+H1_Patents          -2  -5.1968  2.7695 -11.5832   1.1897      1.224109e-15
+H1_Patents          -1   0.0000  0.0000   0.0000   0.0000      1.224109e-15
+H1_Patents           0   7.0735  2.5095   1.2866  12.8604      1.224109e-15
+H1_Patents           1   2.0980  2.7036  -4.1367   8.3326      1.224109e-15
+H1_Patents           2  -7.0856  4.2142 -16.8035   2.6322      1.224109e-15
+H1_Patents           3  -7.3436  7.0670 -23.6401   8.9529      1.224109e-15
+
+=== ROBUSTNESS (head) ===
+                             panel  beta_TxP      se   ci_low  ci_high  p_cluster  n_deals  n_clusters
+                     H2_ROA_t0post   20.1000 14.8823 -13.0599  53.2599     0.2066       11          11
+                    H2_ROA_100only    1.2732  1.2111  -2.0895   4.6358     0.3525        5           5
+                      H2_ROA_broad   21.1514 12.9696  -7.3944  49.6972     0.1312       12          12
+                     H2_ROA_winsor    7.7913  6.1026  -5.8063  21.3888     0.2306       11          11
+                    H1_Pat_100only    1.0196  3.8566  -9.6880  11.7272     0.8045        5           5
+                      H1_Pat_broad   -0.0266  2.0146  -4.5840   4.5307     0.9897       10          10
+       H2_ROA_LOO_drop_biodexa ltd    8.5718  9.1504 -12.1278  29.2713     0.3733       10          10
+H2_ROA_LOO_drop_busy bees nurserie   23.6020 15.2712 -10.9438  58.1478     0.1566       10          10
+   H2_ROA_LOO_drop_correvio pharma   16.3345 15.7335 -19.2570  51.9261     0.3263       10          10
+H2_ROA_LOO_drop_eurofins scientifi   26.7415 17.0701 -11.8737  65.3566     0.1517       10          10
+               H2_ROA_LOO_drop_gsk   25.2469 17.4590 -14.2481  64.7418     0.1821       10          10
+         H2_ROA_LOO_drop_recordati   26.3857 17.2860 -12.7180  65.4893     0.1613       10          10
+   H2_ROA_LOO_drop_recordati s p a   30.7561 15.8416  -5.0802  66.5923     0.0841       10          10
+            H2_ROA_LOO_drop_sanofi   33.1668 19.2435 -10.3651  76.6987     0.1189       10          10
+H2_ROA_LOO_drop_shire plc inactive   25.0868 17.3278 -14.1114  64.2851     0.1816       10          10
+           H2_ROA_LOO_drop_vectura   22.6342 15.0041 -11.3074  56.5758     0.1657       10          10
+            H2_ROA_LOO_drop_zambon   24.0676 15.4845 -10.9607  59.0959     0.1545       10          10

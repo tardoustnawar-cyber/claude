@@ -1,0 +1,5 @@
+panel,group,n_deals,n_obs,pre_mean,pre_sd,post_mean,post_sd,raw_change
+ROA (%),Innovation-driven,5,35,-11.687,44.688,1.033,16.819,12.72
+ROA (%),Alternative-rationale,6,42,5.854,20.149,-0.972,20.513,-6.825
+Patent families,Innovation-driven,3,19,15.429,13.126,12.889,12.762,-2.54
+Patent families,Alternative-rationale,6,39,2.875,2.918,2.824,3.522,-0.051

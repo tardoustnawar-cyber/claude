@@ -1,0 +1,35 @@
+0,1
+Candidate alternative-rationale group — DiD Data Collection Workbook,
+,
+,
+Purpose,
+"The Deal_Master_Wide sheet has one row per deal, as requested. Enter annual financial and patent data in the t−3 to t+3 columns. The Panel_DiD sheet automatically reshapes the wide data into one row per deal-year for R/Stata estimation.",
+,
+,
+Critical methodological caution,
+"The source workbooks are candidate screening lists, not final mutually exclusive treatment/control groups. This workbook contains 39 deals whose normalized headline also appears in the other source file. Use the Final_Classification and Main_DiD_Decision fields only after deal-level validation.",
+,
+,
+,
+Cell convention,Meaning
+Blue text,Hardcoded inputs or data to be collected/validated
+Black text,Formulas calculated within Deal_Master_Wide
+Green text,Formulas linked from another worksheet
+Yellow fill,"Important review warning, including overlap"
+t0,Completion year; baseline panel also provides Post excluding t0
+,
+Recommended workflow,
+"1. Validate the transaction, completion date, control transfer and European scope.",
+"2. Classify the deal using pre-acquisition patent, pipeline, platform and R&D evidence.",
+"3. Resolve overlaps, mixed motives, repeated acquirers and multiple event windows.",
+"4. Enter Bloomberg historical actuals only; keep missing observations blank, never zero.",
+5. Aggregate Lens records to unique patent families by earliest priority year before entry.,
+6. Use Panel_DiD for estimation after appending the final treatment and comparison files.,
+,
+Financial data import completed,
+"Twenty Bloomberg workbooks were reviewed. Eighteen primary files were mapped to 26 control-group deal rows. The duplicate Esteve export was not imported twice, and the Celyad file remains unmapped because no corresponding deal exists in the current control workbook.",
+,
+Patent data import completed,
+Fifteen Lens exports were reviewed. Fourteen contained valid applicant/owner matches and were linked to 22 control-group deal rows. The file labelled for Esteve contains Samyang patent records and was not used for Esteve.,
+Patent-family counts are aggregated by earliest priority year. Raw forward citations are the sum of Lens 'Cited by Patent Count' across retained families. Years inside the observed priority-year range with no retained family are coded as zero; years outside that observed range remain blank.,
+"Important scope warnings: the GSK export is concentrated on Consumer Healthcare/Haleon entities, the Roche export is concentrated on Diagnostics/Glycart entities, and several event windows are only partially covered.",

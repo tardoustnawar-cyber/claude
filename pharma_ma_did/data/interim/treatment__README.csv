@@ -1,0 +1,38 @@
+0,1
+Candidate treatment group — DiD Data Collection Workbook,
+,
+,
+Purpose,
+"The Deal_Master_Wide sheet has one row per deal, as requested. Enter annual financial and patent data in the t−3 to t+3 columns. The Panel_DiD sheet automatically reshapes the wide data into one row per deal-year for R/Stata estimation.",
+,
+,
+Critical methodological caution,
+"The source workbooks are candidate screening lists, not final mutually exclusive treatment/control groups. This workbook contains 39 deals whose normalized headline also appears in the other source file. Use the Final_Classification and Main_DiD_Decision fields only after deal-level validation.",
+,
+,
+,
+Cell convention,Meaning
+Blue text,Hardcoded inputs or data to be collected/validated
+Black text,Formulas calculated within Deal_Master_Wide
+Green text,Formulas linked from another worksheet
+Yellow fill,"Important review warning, including overlap"
+t0,Completion year; baseline panel also provides Post excluding t0
+,
+Recommended workflow,
+"1. Validate the transaction, completion date, control transfer and European scope.",
+"2. Classify the deal using pre-acquisition patent, pipeline, platform and R&D evidence.",
+"3. Resolve overlaps, mixed motives, repeated acquirers and multiple event windows.",
+"4. Enter Bloomberg historical actuals only; keep missing observations blank, never zero.",
+5. Aggregate Lens records to unique patent families by earliest priority year before entry.,
+6. Use Panel_DiD for estimation after appending the final treatment and comparison files.,
+,
+Bloomberg import status,13 treatment-group financial workbooks were imported.
+Mapped deal files,8 files were linked to treatment deal rows; 3 of these deals were added from the alternative-rationale export at the user's instruction.
+Unmatched files,"AstraZeneca, Celyad Oncology, Chiltern International, 10X Genomics, and Medipass were not assigned to a deal because no supported deal event was found in the supplied lists."
+Financial units,"Values are stored in the reported currency, millions. The currency is shown for each deal and in the import log."
+Event window,Financial data were aligned to t−3 through t+3 using each deal's completion year.
+Patent status,8 Lens.org exports imported; 7 were linked to verified treatment deal rows.
+Mapped patent files,"Chinook/Aduro, Esteve, Eurofins, GSK, Nicox, Sanofi and Shire were linked to deal rows."
+Unmatched patent file,AstraZeneca patent data are preserved in the patent import sheets but not assigned because no verified AstraZeneca deal event exists in the supplied deal lists.
+Citation metric,"The populated citation output is a provisional raw family-level forward-citation total, not yet age- or field-normalised."
+Comparability warning,"Patent export scopes are not harmonised: Sanofi is EP-focused, GSK is concentrated on Consumer Healthcare/Haleon, and several files have incomplete event-window coverage."

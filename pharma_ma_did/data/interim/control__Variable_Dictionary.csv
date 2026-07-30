@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7
+Variable,Sheet,Role,Definition / Formula,Source,Timing / Unit,Required for,Data-entry rule
+Deal_ID,Deal_Master_Wide / Panel_DiD,Identifier,Unique workbook-specific deal identifier,Constructed,Deal,All analyses,Do not change after data collection begins
+Initial_Group,Both,Audit,Candidate group from source workbook; not final classification,GlobalData export,Deal,Audit only,Do not use as final treatment without validation
+Final_Classification,Both,Treatment definition,Manual mutually exclusive classification based on pre-deal innovation evidence,Manual validation,Deal,Primary DiD,Use dropdown; classify before inspecting outcomes
+Completion_Year,Both,Event timing,Calendar year of verified deal completion,GlobalData + validation,Year,DiD/event study,Verify anomalies before use
+Relative_Year,Panel_DiD,Event time,Calendar year minus completion year,Formula/constructed,-3 to +3,Event study,t0 treatment-year rule must be stated
+Post_Excluding_t0,Panel_DiD,Treatment timing,1 for t+1 to t+3; 0 otherwise,Constructed,Binary,Baseline DiD,Preferred when completion year mixes pre/post months
+Revenue_m,Both,Control / secondary outcome,"Annual revenue in reported currency, millions",Bloomberg,Firm-year,Size/control,Use historical actuals only
+Operating_Income_m,Both,Input,"Annual operating income in reported currency, millions",Bloomberg,Firm-year,Operating margin validation,Historical actuals only
+Net_Income_m,Both,Input,"Annual net income in reported currency, millions",Bloomberg,Firm-year,ROA validation,Historical actuals only
+Total_Assets_m,Both,Control / denominator,"Year-end total assets in reported currency, millions",Bloomberg,Firm-year,Firm size / ROA,Historical actuals only
+Total_Debt_m,Both,Control,"Short- plus long-term debt, reported currency, millions",Bloomberg,Firm-year,Leverage,Use consistent definition
+R_and_D_Expense_m,Both,Innovation input / secondary,Annual reported R&D expense,Bloomberg,Firm-year,Secondary analysis,Blank is not zero
+ROA_pct,Both,Primary financial outcome,Return on assets in percentage points,Bloomberg or transparent calculation,"Firm-year, %",H2,Do not mix definitions across firms
+Operating_Margin_pct,Both,Primary financial outcome,"Operating income divided by revenue, percentage points",Bloomberg or calculation,"Firm-year, %",H2,Use one definition consistently
+Leverage_pct,Both,Control,"Total debt divided by total assets, percentage points",Bloomberg/calculation,"Firm-year, %",Matching/control,Define before estimation
+Patent_Family_Count,Both,Primary innovation outcome,Unique simple patent families assigned to the acquirer/combined group by earliest priority year,Lens.org,Firm-year count,H1,Do not count publications as inventions
+Citation_Weighted_Output,Both,Primary innovation outcome,Patent-family output weighted by age/field-adjusted forward citations,Lens.org,Firm-year index,H1,Address citation truncation
+Acquirer_PreDeal_Patent_Stock,Deal_Master_Wide,Exploratory moderator,Acquirer unique family stock over fixed pre-deal window,Lens.org,Deal,E2,Use same pre-window for acquirer and target
+Target_PreDeal_Patent_Stock,Deal_Master_Wide,Exploratory moderator,Target unique family stock over fixed pre-deal window,Lens.org,Deal,E2,Verify subsidiaries and former names
+Relative_Knowledge_Base_Size,Deal_Master_Wide,Exploratory moderator,Target pre-deal patent stock divided by acquirer stock,Formula,Ratio,E2,Blank when acquirer stock is zero/missing
+Technological_Relatedness_Cosine,Deal_Master_Wide,Exploratory moderator,Cosine similarity of acquirer and target CPC/IPC family distributions,Lens.org,0 to 1,E1,Requires both patent portfolios
+Deal_Value_USD_m,Deal_Master_Wide / Panel_DiD,Deal characteristic,Disclosed GlobalData deal value in US$ millions,GlobalData,US$m,Descriptive/control,Blank when undisclosed; never set to zero

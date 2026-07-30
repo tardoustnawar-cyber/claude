@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+Candidate alternative-rationale group — Dataset Status,,,,,,,
+,,,,,,,
+,,,,,,,
+KPI,Value,,Completion Year,Deals,,Transaction subtype,Deals
+Total deals,306,,2012,12,,100% Acquisition,169
+Cross-file overlap,39,,2013,21,,Majority Acquisition,70
+Within-file duplicate flags,1,,2014,32,,Minority Acquisition,39
+100% acquisitions,169,,2015,54,,Reverse Acquisition,1
+Majority acquisitions,70,,2016,43,,Merger / Unspecified,27
+Minority acquisitions,39,,2017,41,,,
+Mergers,27,,2018,37,,,
+Missing deal value,162,,2019,32,,,
+Missing/undisclosed acquirer,21,,2020,34,,,
+,,,,,,,
+Financial Data Import — Control Group,,,,,,,
+Financial files received,20,,,,,,
+Unique companies detected,19,,,,,,
+Primary files imported,18,,,,,,
+Deal rows populated,26,,,,,,
+Unmapped files,1,,,,,,
+Duplicate source exports,1,,,,,,
+,,,,,,,
+Patent Data Import — Control Group,,,,,,,
+Patent files received,15,,,,,,
+Files with valid company matches,14,,,,,,
+Rejected/mismatched files,1,,,,,,
+Unique retained patent families,699,,,,,,
+Deal rows populated with patent data,21,,,,,,
+Complete 7-year patent windows,12,,,,,,
+Partial patent windows,9,,,,,,
+No event-window coverage,2,,,,,,
