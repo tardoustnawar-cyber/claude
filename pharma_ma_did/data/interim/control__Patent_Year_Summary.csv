@@ -1,0 +1,229 @@
+Source_File,Company_or_Group,Deal_ID,Completion_Year,Calendar_Year,Relative_Year,Within_Event_Window,Coverage_Basis,Patent_Family_Count,Citation_Weighted_Output,Observed_Min_Year,Observed_Max_Year
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2011,-4,No,Inferred from observed earliest-priority-year range,1,1,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2012,-3,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2013,-2,Yes,Inferred from observed earliest-priority-year range,1,3,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2014,-1,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2015,0,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2016,1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2017,2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2018,3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2019
+Ethypharm SAS.csv,Ethypharm SAS,CTL-0198,2015,2019,4,No,Inferred from observed earliest-priority-year range,2,0,2011,2019
+GSK(1).csv,GSK PLC,CTL-0284,2013,2011,-2,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2012,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2013,0,Yes,Inferred from observed earliest-priority-year range,7,37,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2014,1,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2015,2,Yes,Inferred from observed earliest-priority-year range,2,1,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2016,3,Yes,Inferred from observed earliest-priority-year range,6,18,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2017,4,No,Inferred from observed earliest-priority-year range,2,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2018,5,No,Inferred from observed earliest-priority-year range,2,9,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2019,6,No,Inferred from observed earliest-priority-year range,8,40,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2020,7,No,Inferred from observed earliest-priority-year range,0,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0284,2013,2021,8,No,Inferred from observed earliest-priority-year range,1,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2011,-4,No,Inferred from observed earliest-priority-year range,1,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2012,-3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2013,-2,Yes,Inferred from observed earliest-priority-year range,7,37,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2014,-1,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2015,0,Yes,Inferred from observed earliest-priority-year range,2,1,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2016,1,Yes,Inferred from observed earliest-priority-year range,6,18,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2017,2,Yes,Inferred from observed earliest-priority-year range,2,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2018,3,Yes,Inferred from observed earliest-priority-year range,2,9,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2019,4,No,Inferred from observed earliest-priority-year range,8,40,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2020,5,No,Inferred from observed earliest-priority-year range,0,0,2011,2021
+GSK(1).csv,GSK PLC,CTL-0229,2015,2021,6,No,Inferred from observed earliest-priority-year range,1,0,2011,2021
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2011,-2,Yes,Inferred from observed earliest-priority-year range,2,6,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2012,-1,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2013,0,Yes,Inferred from observed earliest-priority-year range,5,10,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2014,1,Yes,Inferred from observed earliest-priority-year range,1,1,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2015,2,Yes,Inferred from observed earliest-priority-year range,3,4,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2016,3,Yes,Inferred from observed earliest-priority-year range,8,1,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2017,4,No,Inferred from observed earliest-priority-year range,2,0,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2018,5,No,Inferred from observed earliest-priority-year range,9,2,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2019,6,No,Inferred from observed earliest-priority-year range,5,1,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2020,7,No,Inferred from observed earliest-priority-year range,5,4,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2021,8,No,Inferred from observed earliest-priority-year range,4,2,2011,2022
+Ipsen SA.csv,Ipsen SA,CTL-0281,2013,2022,9,No,Inferred from observed earliest-priority-year range,3,0,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2011,-2,Yes,Inferred from observed earliest-priority-year range,10,24,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2012,-1,Yes,Inferred from observed earliest-priority-year range,7,37,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2013,0,Yes,Inferred from observed earliest-priority-year range,3,6,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2014,1,Yes,Inferred from observed earliest-priority-year range,12,15,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2015,2,Yes,Inferred from observed earliest-priority-year range,8,13,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2016,3,Yes,Inferred from observed earliest-priority-year range,6,4,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2017,4,No,Inferred from observed earliest-priority-year range,6,11,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2018,5,No,Inferred from observed earliest-priority-year range,7,5,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2019,6,No,Inferred from observed earliest-priority-year range,2,1,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2020,7,No,Inferred from observed earliest-priority-year range,5,13,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2021,8,No,Inferred from observed earliest-priority-year range,4,5,2011,2022
+Merz Pharma GmbH & Co. KGaA.csv,Merz Pharma GmbH & Co. KGaA,CTL-0279,2013,2022,9,No,Inferred from observed earliest-priority-year range,3,0,2011,2022
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0064,2018,2016,-2,Yes,Inferred from observed earliest-priority-year range,3,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0064,2018,2017,-1,Yes,Inferred from observed earliest-priority-year range,1,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0064,2018,2018,0,Yes,Inferred from observed earliest-priority-year range,2,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0064,2018,2019,1,Yes,Inferred from observed earliest-priority-year range,0,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0064,2018,2020,2,Yes,Inferred from observed earliest-priority-year range,0,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0064,2018,2021,3,Yes,Inferred from observed earliest-priority-year range,1,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0298,2012,2016,4,No,Inferred from observed earliest-priority-year range,3,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0298,2012,2017,5,No,Inferred from observed earliest-priority-year range,1,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0298,2012,2018,6,No,Inferred from observed earliest-priority-year range,2,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0298,2012,2019,7,No,Inferred from observed earliest-priority-year range,0,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0298,2012,2020,8,No,Inferred from observed earliest-priority-year range,0,0,2016,2021
+Recordati Industria Chimica e Farmaceutica SpA.csv,Recordati Industria Chimica e Farmaceutica SpA,CTL-0298,2012,2021,9,No,Inferred from observed earliest-priority-year range,1,0,2016,2021
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2011,-4,No,Inferred from observed earliest-priority-year range,23,688,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2012,-3,Yes,Inferred from observed earliest-priority-year range,16,149,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2013,-2,Yes,Inferred from observed earliest-priority-year range,6,209,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2014,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2015,0,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2016,1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2017,2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2018,3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2019,4,No,Inferred from observed earliest-priority-year range,1,4,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2020,5,No,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2021,6,No,Inferred from observed earliest-priority-year range,1,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2022,7,No,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2023,8,No,Inferred from observed earliest-priority-year range,3,1,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0230,2015,2024,9,No,Inferred from observed earliest-priority-year range,3,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2011,-4,No,Inferred from observed earliest-priority-year range,23,688,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2012,-3,Yes,Inferred from observed earliest-priority-year range,16,149,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2013,-2,Yes,Inferred from observed earliest-priority-year range,6,209,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2014,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2015,0,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2016,1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2017,2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2018,3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2019,4,No,Inferred from observed earliest-priority-year range,1,4,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2020,5,No,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2021,6,No,Inferred from observed earliest-priority-year range,1,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2022,7,No,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2023,8,No,Inferred from observed earliest-priority-year range,3,1,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0234,2015,2024,9,No,Inferred from observed earliest-priority-year range,3,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2011,-7,No,Inferred from observed earliest-priority-year range,23,688,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2012,-6,No,Inferred from observed earliest-priority-year range,16,149,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2013,-5,No,Inferred from observed earliest-priority-year range,6,209,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2014,-4,No,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2015,-3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2016,-2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2017,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2018,0,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2019,1,Yes,Inferred from observed earliest-priority-year range,1,4,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2020,2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2021,3,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2022,4,No,Inferred from observed earliest-priority-year range,0,0,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2023,5,No,Inferred from observed earliest-priority-year range,3,1,2011,2024
+Roche Holding AG.csv,Roche Holding AG,CTL-0071,2018,2024,6,No,Inferred from observed earliest-priority-year range,3,0,2011,2024
+shire(1).csv,Shire PLC,CTL-0288,2013,2011,-2,Yes,Inferred from observed earliest-priority-year range,15,159,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2012,-1,Yes,Inferred from observed earliest-priority-year range,13,241,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2013,0,Yes,Inferred from observed earliest-priority-year range,23,416,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2014,1,Yes,Inferred from observed earliest-priority-year range,18,245,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2015,2,Yes,Inferred from observed earliest-priority-year range,8,20,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2016,3,Yes,Inferred from observed earliest-priority-year range,6,22,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2017,4,No,Inferred from observed earliest-priority-year range,11,11,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2018,5,No,Inferred from observed earliest-priority-year range,6,12,2011,2019
+shire(1).csv,Shire PLC,CTL-0288,2013,2019,6,No,Inferred from observed earliest-priority-year range,8,29,2011,2019
+TiGenix NV.csv,TiGenix NV,CTL-0202,2015,2011,-4,No,Inferred from observed earliest-priority-year range,1,4,2011,2013
+TiGenix NV.csv,TiGenix NV,CTL-0202,2015,2012,-3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2013
+TiGenix NV.csv,TiGenix NV,CTL-0202,2015,2013,-2,Yes,Inferred from observed earliest-priority-year range,1,1,2011,2013
+UCB SA.csv,UCB SA,CTL-0005,2020,2011,-9,No,Inferred from observed earliest-priority-year range,13,30,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2012,-8,No,Inferred from observed earliest-priority-year range,24,118,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2013,-7,No,Inferred from observed earliest-priority-year range,34,13,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2014,-6,No,Inferred from observed earliest-priority-year range,24,41,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2015,-5,No,Inferred from observed earliest-priority-year range,42,71,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2016,-4,No,Inferred from observed earliest-priority-year range,26,13,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2017,-3,Yes,Inferred from observed earliest-priority-year range,27,107,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2018,-2,Yes,Inferred from observed earliest-priority-year range,15,5,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2019,-1,Yes,Inferred from observed earliest-priority-year range,18,26,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2020,0,Yes,Inferred from observed earliest-priority-year range,25,7,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2021,1,Yes,Inferred from observed earliest-priority-year range,17,2,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2022,2,Yes,Inferred from observed earliest-priority-year range,5,0,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2023,3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2024
+UCB SA.csv,UCB SA,CTL-0005,2020,2024,4,No,Inferred from observed earliest-priority-year range,1,0,2011,2024
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2011,-7,No,Inferred from observed earliest-priority-year range,2,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2012,-6,No,Inferred from observed earliest-priority-year range,0,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2013,-5,No,Inferred from observed earliest-priority-year range,1,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2014,-4,No,Inferred from observed earliest-priority-year range,0,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2015,-3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2016,-2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2017,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2018,0,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2019,1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+USV Pvt Ltd.csv,USV Pvt Ltd,CTL-0096,2018,2020,2,Yes,Inferred from observed earliest-priority-year range,1,1,2011,2020
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2014,-4,No,Inferred from observed earliest-priority-year range,2,1,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2015,-3,Yes,Inferred from observed earliest-priority-year range,1,0,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2016,-2,Yes,Inferred from observed earliest-priority-year range,0,0,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2017,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2018,0,Yes,Inferred from observed earliest-priority-year range,0,0,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2019,1,Yes,Inferred from observed earliest-priority-year range,0,0,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2020,2,Yes,Inferred from observed earliest-priority-year range,1,1,2014,2021
+Vaxart Inc..csv,Vaxart Inc.,CTL-0107,2018,2021,3,Yes,Inferred from observed earliest-priority-year range,1,1,2014,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2011,-3,Yes,Inferred from observed earliest-priority-year range,4,35,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2012,-2,Yes,Inferred from observed earliest-priority-year range,6,19,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2013,-1,Yes,Inferred from observed earliest-priority-year range,5,6,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2014,0,Yes,Inferred from observed earliest-priority-year range,6,20,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2015,1,Yes,Inferred from observed earliest-priority-year range,4,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2016,2,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2017,3,Yes,Inferred from observed earliest-priority-year range,7,25,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2018,4,No,Inferred from observed earliest-priority-year range,3,7,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2019,5,No,Inferred from observed earliest-priority-year range,4,5,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2020,6,No,Inferred from observed earliest-priority-year range,6,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0264,2014,2021,7,No,Inferred from observed earliest-priority-year range,3,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2011,-3,Yes,Inferred from observed earliest-priority-year range,4,35,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2012,-2,Yes,Inferred from observed earliest-priority-year range,6,19,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2013,-1,Yes,Inferred from observed earliest-priority-year range,5,6,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2014,0,Yes,Inferred from observed earliest-priority-year range,6,20,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2015,1,Yes,Inferred from observed earliest-priority-year range,4,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2016,2,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2017,3,Yes,Inferred from observed earliest-priority-year range,7,25,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2018,4,No,Inferred from observed earliest-priority-year range,3,7,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2019,5,No,Inferred from observed earliest-priority-year range,4,5,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2020,6,No,Inferred from observed earliest-priority-year range,6,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0263,2014,2021,7,No,Inferred from observed earliest-priority-year range,3,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2011,-5,No,Inferred from observed earliest-priority-year range,4,35,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2012,-4,No,Inferred from observed earliest-priority-year range,6,19,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2013,-3,Yes,Inferred from observed earliest-priority-year range,5,6,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2014,-2,Yes,Inferred from observed earliest-priority-year range,6,20,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2015,-1,Yes,Inferred from observed earliest-priority-year range,4,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2016,0,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2017,1,Yes,Inferred from observed earliest-priority-year range,7,25,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2018,2,Yes,Inferred from observed earliest-priority-year range,3,7,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2019,3,Yes,Inferred from observed earliest-priority-year range,4,5,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2020,4,No,Inferred from observed earliest-priority-year range,6,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0173,2016,2021,5,No,Inferred from observed earliest-priority-year range,3,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2011,-5,No,Inferred from observed earliest-priority-year range,4,35,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2012,-4,No,Inferred from observed earliest-priority-year range,6,19,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2013,-3,Yes,Inferred from observed earliest-priority-year range,5,6,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2014,-2,Yes,Inferred from observed earliest-priority-year range,6,20,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2015,-1,Yes,Inferred from observed earliest-priority-year range,4,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2016,0,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2017,1,Yes,Inferred from observed earliest-priority-year range,7,25,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2018,2,Yes,Inferred from observed earliest-priority-year range,3,7,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2019,3,Yes,Inferred from observed earliest-priority-year range,4,5,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2020,4,No,Inferred from observed earliest-priority-year range,6,2,2011,2021
+Vectura Group Ltd.csv,Vectura Group Ltd,CTL-0172,2016,2021,5,No,Inferred from observed earliest-priority-year range,3,2,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2011,-4,No,Inferred from observed earliest-priority-year range,2,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2012,-3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2013,-2,Yes,Inferred from observed earliest-priority-year range,3,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2014,-1,Yes,Inferred from observed earliest-priority-year range,2,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2015,0,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2016,1,Yes,Inferred from observed earliest-priority-year range,3,4,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2017,2,Yes,Inferred from observed earliest-priority-year range,2,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2018,3,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2019,4,No,Inferred from observed earliest-priority-year range,1,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2020,5,No,Inferred from observed earliest-priority-year range,2,0,2011,2021
+Zambon SpA.csv,Zambon SpA,CTL-0207,2015,2021,6,No,Inferred from observed earliest-priority-year range,4,0,2011,2021
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2011,-8,No,Inferred from observed earliest-priority-year range,2,1,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2012,-7,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2013,-6,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2014,-5,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2015,-4,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2016,-3,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2017,-2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2018,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2019,0,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0055,2019,2020,1,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2011,-9,No,Inferred from observed earliest-priority-year range,2,1,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2012,-8,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2013,-7,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2014,-6,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2015,-5,No,Inferred from observed earliest-priority-year range,3,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2016,-4,No,Inferred from observed earliest-priority-year range,1,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2017,-3,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2018,-2,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2019,-1,Yes,Inferred from observed earliest-priority-year range,0,0,2011,2020
+Zentiva Group AS.csv,Zentiva Group AS,CTL-0038,2020,2020,0,Yes,Inferred from observed earliest-priority-year range,1,0,2011,2020

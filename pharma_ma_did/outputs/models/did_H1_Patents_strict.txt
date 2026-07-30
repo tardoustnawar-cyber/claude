@@ -1,0 +1,3 @@
+Baseline linear DiD, patent families, strict
+
+None

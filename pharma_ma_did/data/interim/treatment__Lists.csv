@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Review_Status,,Final_Classification,,Confidence,,Yes_No_Unknown,,Data_Status,,Main_DiD_Decision,,Patent_Entity_Scope
+Not started,,Not reviewed,,Not assessed,,Unknown,,Not collected,,Review,,Acquirer only
+In progress,,High-confidence innovation-driven,,High,,Yes,,Partial,,Include,,Combined group
+Completed,,Medium-confidence innovation-driven,,Medium,,No,,Complete,,Exclude,,Target only
+Excluded,,Clear alternative-rationale,,Low,,,,Not available,,,,Not defined
+,,Mixed / borderline,,,,,,,,,,
+,,Insufficient evidence,,,,,,,,,,
+,,Excluded,,,,,,,,,,

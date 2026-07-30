@@ -1,0 +1,11 @@
+panel,variable,innov_mean,alt_mean,SMD
+financial,ROA_pct,-11.687,5.854,-0.506
+financial,Operating_Margin_pct,-203.211,-199.185,-0.005
+financial,Total_Assets_m,31889.859,575.648,1.076
+financial,Revenue_m,14535.393,419.302,1.216
+financial,Leverage_pct,49.088,18.519,0.7
+financial,R_and_D_Expense_m,2623.512,49.943,1.533
+patent,Patent_Family_Count,15.429,2.875,1.32
+patent,Citation_Weighted_Output,59.0,5.75,0.754
+financial,Completion_Year,2014.2,2015.0,-0.367
+patent,Completion_Year,2014.67,2015.83,-0.474

@@ -1,0 +1,5 @@
+panel,outcome,spec,beta_TxP,se,ci_low,ci_high,p_cluster,p_wildboot,n_obs,n_deals,n_clusters,pre_mean_outcome
+H2_ROA_strict,ROA_pct,"Baseline DiD, ROA, strict innovation vs alternative",23.612,15.6512,-11.261,58.485,0.1623,0.3025,66,11,11,-2.119
+H2_OpMargin_strict,Operating_Margin_pct,"Baseline DiD, operating margin (secondary)",-215.6702,268.1621,-805.8909,374.5505,0.4383,0.6533,70,12,12,-147.464
+H1_Patents_strict,Patent_Family_Count,"Baseline linear DiD, patent families, strict",0.671,2.6054,-5.337,6.679,0.8033,0.7742,49,9,9,6.696
+H1_Patents_PPML,Patent_Family_Count,"FE-Poisson (PPML), strict",0.2122,0.4268,-0.6243,1.0487,0.619,,49,9,9,

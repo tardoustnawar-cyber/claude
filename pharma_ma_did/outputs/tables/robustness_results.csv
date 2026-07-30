@@ -1,0 +1,18 @@
+panel,outcome,spec,beta_TxP,se,ci_low,ci_high,p_cluster,p_wildboot,n_obs,n_deals,n_clusters,pre_mean_outcome
+H2_ROA_t0post,ROA_pct,Include completion year t0 as post,20.1,14.8823,-13.0599,53.2599,0.2066,0.3411,77,11,11,-2.119
+H2_ROA_100only,ROA_pct,100% acquisitions only,1.2732,1.2111,-2.0895,4.6358,0.3525,0.4723,30,5,5,4.874
+H2_ROA_broad,ROA_pct,Broad sample incl. borderline innovation-candidates,21.1514,12.9696,-7.3944,49.6972,0.1312,0.147,72,12,12,-3.347
+H2_ROA_winsor,ROA_pct,Winsorised ROA (5/95),7.7913,6.1026,-5.8063,21.3888,0.2306,0.3231,66,11,11,1.194
+H1_Pat_100only,Patent_Family_Count,"Patents, 100% acquisitions only",1.0196,3.8566,-9.688,11.7272,0.8045,0.8152,28,5,5,7.357
+H1_Pat_broad,Patent_Family_Count,"Patents, broad sample",-0.0266,2.0146,-4.584,4.5307,0.9897,0.9888,55,10,10,6.269
+H2_ROA_LOO_drop_biodexa ltd,ROA_pct,Leave-one-out: drop biodexa ltd,8.5718,9.1504,-12.1278,29.2713,0.3733,0.5387,60,10,10,7.321
+H2_ROA_LOO_drop_busy bees nurserie,ROA_pct,Leave-one-out: drop busy bees nurseries,23.602,15.2712,-10.9438,58.1478,0.1566,0.2561,60,10,10,-3.1
+H2_ROA_LOO_drop_correvio pharma,ROA_pct,Leave-one-out: drop correvio pharma,16.3345,15.7335,-19.257,51.9261,0.3263,0.5099,60,10,10,-1.51
+H2_ROA_LOO_drop_eurofins scientifi,ROA_pct,Leave-one-out: drop eurofins scientific,26.7415,17.0701,-11.8737,65.3566,0.1517,0.2655,60,10,10,-3.414
+H2_ROA_LOO_drop_gsk,ROA_pct,Leave-one-out: drop gsk,25.2469,17.459,-14.2481,64.7418,0.1821,0.3205,60,10,10,-3.243
+H2_ROA_LOO_drop_recordati,ROA_pct,Leave-one-out: drop recordati,26.3857,17.286,-12.718,65.4893,0.1613,0.3417,60,10,10,-3.852
+H2_ROA_LOO_drop_recordati s p a,ROA_pct,Leave-one-out: drop recordati s p a,30.7561,15.8416,-5.0802,66.5923,0.0841,0.2881,60,10,10,-3.614
+H2_ROA_LOO_drop_sanofi,ROA_pct,Leave-one-out: drop sanofi,33.1668,19.2435,-10.3651,76.6987,0.1189,0.3143,60,10,10,-2.9
+H2_ROA_LOO_drop_shire plc inactive,ROA_pct,Leave-one-out: drop shire plc inactive,25.0868,17.3278,-14.1114,64.2851,0.1816,0.3041,60,10,10,-3.576
+H2_ROA_LOO_drop_vectura,ROA_pct,Leave-one-out: drop vectura,22.6342,15.0041,-11.3074,56.5758,0.1657,0.2807,60,10,10,-2.217
+H2_ROA_LOO_drop_zambon,ROA_pct,Leave-one-out: drop zambon,24.0676,15.4845,-10.9607,59.0959,0.1545,0.2623,60,10,10,-3.207

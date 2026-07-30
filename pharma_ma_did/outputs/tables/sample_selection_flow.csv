@@ -1,0 +1,13 @@
+step,n
+Raw rows: innovation-driven export (candidate treatment),45
+Raw rows: alternative-rationale export (candidate control),306
+Total candidate rows,351
+Cross-file overlapping events (same deal in both exports),39
+"Rows dropped as duplicates (3 cross-file with data, 3 exact dupes)",6
+Unique economic events after consolidation,307
+Deals with any Bloomberg ROA in event window,27
+Deals with any Lens patent-family count in event window,21
+H2 preferred coverage (>=2 pre & >=2 post ROA),20
+H1 preferred coverage (>=2 pre & >=2 post patents),17
+H2 strict estimation sample (excl. borderline/mixed),11
+H1 strict estimation sample (excl. borderline/mixed),9
