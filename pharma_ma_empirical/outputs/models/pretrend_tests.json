@@ -1,0 +1,16 @@
+{
+  "H2_ROA": {
+    "pretrend_joint_p": 0.5729,
+    "pre_terms": [
+      "Tm3",
+      "Tm2"
+    ]
+  },
+  "H1_patents": {
+    "pretrend_joint_p": 0.9568,
+    "pre_terms": [
+      "Tm3",
+      "Tm2"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+sample,dropped_acquirer,beta,delta_vs_base
+H2_ROA,Biodexa Ltd,0.434,-10.342
+H2_ROA,Eurofins Scientific SE,8.49,-2.286
+H2_ROA,GSK,12.674,1.898
+H2_ROA,Ipsen S.A.,11.084,0.308
+H2_ROA,Nicox SA,11.844,1.068
+H2_ROA,Recordati,12.034,1.258
+H2_ROA,Roche,14.325,3.55
+H2_ROA,Sanofi,11.675,0.899
+H2_ROA,Shire plc (Inactive),12.38,1.604
+H2_ROA,UCB SA,11.642,0.866
+H2_ROA,Vectura,13.734,2.959
+H2_ROA,Zambon SpA,10.864,0.088
+H1_patents,Ethypharm S.A,-0.712,-0.255
+H1_patents,GSK,-1.063,-0.606
+H1_patents,Ipsen S.A.,-0.929,-0.472
+H1_patents,Merz Pharma GmbH & Co. KGaA,-0.25,0.207
+H1_patents,Nicox SA,-0.592,-0.136
+H1_patents,Recordati,0.217,0.674
+H1_patents,Roche,1.004,1.461
+H1_patents,Sanofi,-1.586,-1.129
+H1_patents,Shire plc (Inactive),-0.06,0.396
+H1_patents,UCB SA,-0.558,-0.101
+H1_patents,USV Pvt Ltd,-0.477,-0.02
+H1_patents,Vectura,-0.784,-0.327
+H1_patents,Zambon SpA,-0.164,0.292

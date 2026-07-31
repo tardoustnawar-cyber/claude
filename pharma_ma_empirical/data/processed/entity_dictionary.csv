@@ -1,0 +1,307 @@
+deal_event_id,member_deal_ids,acquirer,target,acquirer_group,completion_year,Final_Classification,Eligibility,ambiguous_flag
+EVT-1260F95F,CTL-0252,"Abbey Pharma (trading as Intrapharm Laboratories, Ltd.)",Peckforton Pharmaceuticals Ltd (Inactive),"Abbey Pharma (trading as Intrapharm Laboratories, Ltd.)",2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-358F2FDC,CTL-0256,Abbott Laboratories,Kalo Pharma Internacional S.L.U.; Corporacion Farmaceutica Recalcine,Abbott Laboratories,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-B00C081C,CTL-0048,AbbVie Inc,Allergan Ltd,AbbVie Inc,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-24DBF888,CTL-0245,Abingdon Health PLC,Serascience Limited,Abingdon Health PLC,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-3FEAF0A1,CTL-0182,Abliva AB,Isomerase Therapeutics Ltd,Abliva AB,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-79A4F7B1,CTL-0183,Abliva AB,Isomerase Therapeutics Ltd,Abliva AB,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-568C8F3C,TRT-0037,Abzena UK Ltd,Antitope Ltd,Abzena UK Ltd,2013,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-2F171571,CTL-0150,"Actavis, Inc. (Formerly Purepac Pharmaceutical, Co.)",Akarna Therapeutics Ltd,"Actavis, Inc. (Formerly Purepac Pharmaceutical, Co.)",2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-0A07C060,CTL-0250,Actinogen Medical Limited,Corticrine Ltd,Actinogen Medical Limited,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-C20F8EAD,CTL-0305,Active Assistance,Neural Pathways (UK) Ltd.,Active Assistance,2012,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-7ABFF9D1,CTL-0292,Advanced Accelerator Applications SA,Catalana De Dispensacion S.A.,Advanced Accelerator Applications SA,2013,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-614A9A71,CTL-0178,Adverum Biotechnologies,Annapurna Therapeutics SAS (Inactive),Adverum Biotechnologies,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B35860F5,CTL-0271,Agenus Inc,Agenus Switzerland Inc,Agenus Inc,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B79F34F2,TRT-0042,"Agilent Technologies, Inc.",Dako A/S,"Agilent Technologies, Inc.",2012,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-517168EE,TRT-0018,Agile Pharma BV,Generis Pharmaceuticals SA,Agile Pharma BV,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-9B2CF32C,TRT-0023,"Albany Molecular Research, Inc.",Euticals SpA,"Albany Molecular Research, Inc.",2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-1536E386,CTL-0089,Alexion Pharma Nordics AB,Wilson Therapeutics AB,Alexion Pharma Nordics AB,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-A6F7F2A2,CTL-0106,Almac Group Ltd,Bioclin Research Laboratories Ltd,Almac Group Ltd,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-552E6925,CTL-0221,Almi Invest AB; Karo Healthcare AB,Tanomed AB,Almi Invest AB; Karo Healthcare AB,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-0698B835,TRT-0040,Alvogen Inc,LaborMed Pharma SA,Alvogen Inc,2012,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-FA73A04F,CTL-0127,Alvogen Inc,Omega Bittner,Alvogen Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-ADDA6FEE,CTL-0063,Amarox Ltd,Tarbis Farma SL,Amarox Ltd,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-2A7D056D,CTL-0273,Amdipharm Mercury Company Limited,Abcur AB,Amdipharm Mercury Company Limited,2013,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-5B8F53A2,CTL-0287,Amdipharm Mercury Company Limited,Mercury Pharma Group Ltd; Amdipharm Ltd,Amdipharm Mercury Company Limited,2013,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-C562186C,CTL-0213,Amdipharm Mercury Company Limited,Primegen Ltd,Amdipharm Mercury Company Limited,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-DDF46AD9,CTL-0154,Amphastar Pharmaceuticals Inc,International Medication Systems (UK) Ltd,Amphastar Pharmaceuticals Inc,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-CB195734,CTL-0196,Amryt Pharma Plc,Amryt GmbH,Amryt Pharma Plc,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-40747E4E,TRT-0007,Aphria Inc,CC Pharma GmbH,Aphria Inc,2019,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-74C381CD,CTL-0272,"Aratana Therapeutics, Inc.",Okapi Sciences NV,"Aratana Therapeutics, Inc.",2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-E9605D66,CTL-0115,Artivion Inc,JOTEC AG,Artivion Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-DDD8E325,CTL-0121,Ascelia Pharma AB,Oncoral Pharma ApS,Ascelia Pharma AB,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-08F348DA,CTL-0019,Ascenion GmbH; IFB Innovationsstarter GmbH (Innovationsstarter Hamburg GmbH),PROVIREX Genome Editing Therapies GmbH,Ascenion GmbH; IFB Innovationsstarter GmbH (Innovationsstarter Hamburg GmbH),2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-BDCB1CF6,CTL-0020,Asklepios BioPharmaceutical Inc,Brainvectis SAS,Asklepios BioPharmaceutical Inc,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-EB685F9E,CTL-0248,Assistances Medicales Specialisees,ASDIA,Assistances Medicales Specialisees,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-B8594FED,CTL-0021,Astellas Pharma Europe Ltd,Nanna Therapeutics Ltd,Astellas Pharma Europe Ltd,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-8866D4CE,TRT-0014,Astellas Pharma Inc,Ogeda SA,Astellas Pharma Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B4E8CB8B,CTL-0078,Astellas Pharma Inc,Quethera Ltd,Astellas Pharma Inc,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-AF8DAFF3,CTL-0216,Augment Investments Limited (Inactive),Pharmstandard,Augment Investments Limited (Inactive),2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-89DDD0FB,CTL-0160,Augment Investments Limited (Inactive),Pharmstandard,Augment Investments Limited (Inactive),2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-7211E295,CTL-0164,Augment Investments Limited (Inactive),Pharmstandard,Augment Investments Limited (Inactive),2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-A504924F,CTL-0156,AUR Portfolio III SE & Co KgaA,The Hospital Group,AUR Portfolio III SE & Co KgaA,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-A4AD70BD,TRT-0032,Auspex Pharmaceuticals Inc,imphar AG,Auspex Pharmaceuticals Inc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-469B2A0D,CTL-0165,Avadel Pharmaceuticals Plc,Avadel Pharmaceuticals Plc; Flamel Technologies SA (Inactive),Avadel Pharmaceuticals Plc,2017,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-81007800,CTL-0046,B. Braun Avitum AG,Nephtec GmbH,B. Braun Avitum AG,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-4BDD981F,CTL-0296,BASF AS,Pronova Biopharma Norway As (Inactive),BASF AS,2013,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-0DBB057C,CTL-0274,Bayer AG,Algeta ASA (Inactive),Bayer AG,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-14ABDCD2,CTL-0011,Bayer AG,KaNDy Therapeutics Ltd,Bayer AG,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-14785CCE,CTL-0014,BBI Group Holding Ltd (Inactive),Diarect AG,BBI Group Holding Ltd (Inactive),2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-733EAF3C,CTL-0169,Bio-Gate Ag,BioEpiderm GmbH,Bio-Gate Ag,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-FF12A4BD,CTL-0031,Biocodex,Iprad Sante SA,Biocodex,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-ADD6C92A,TRT-0043,Biodexa Ltd,"Q Chip, Ltd.",Biodexa Ltd,2014,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-A039DC41,TRT-0027,BioGaia AB,MetaboGen AB,BioGaia AB,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-587CC31A,TRT-0020,BioGaia AB,MetaboGen AB,BioGaia AB,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-053455F1,CTL-0237,Biogen Inc,Convergence Pharmaceuticals Ltd,Biogen Inc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-E2B48023,CTL-0238,"Biogen, Inc.",Convergence Pharmaceuticals Holdings Limited,"Biogen, Inc.",2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-058183FC,CTL-0058,Biogen Inc,Nightstar Therapeutics PLC (Inactive),Biogen Inc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-86E2C981,TRT-0016,BioLineRx Ltd,Agalimmune Ltd,BioLineRx Ltd,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-9D55DA21,CTL-0044,Boehringer Ingelheim International GmbH,Amal Therapeutics SA,Boehringer Ingelheim International GmbH,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-53EFD1A8,CTL-0056,Boehringer Ingelheim International GmbH,ICD Therapeutics GmbH,Boehringer Ingelheim International GmbH,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B70F64B8,CTL-0074,Boehringer Ingelheim International GmbH,ViraTherapeutics GmbH,Boehringer Ingelheim International GmbH,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-BA695A8C,CTL-0092,Boston Scientific Corp,Emcision Ltd (Inactive),Boston Scientific Corp,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-C2AC891E,TRT-0015,Boston Scientific Corp,Symetis SA (Inactive),Boston Scientific Corp,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-78C1CE70,TRT-0006,Bravo Bidco Ltd,BTG Ltd,Bravo Bidco Ltd,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-E0AB38CD,CTL-0151,Busy Bees Nurseries Ltd,The Teddy Bear Club Nursery,Busy Bees Nurseries Ltd,2016,Ineligible transaction,Ineligible,False
+EVT-31C70D4F,CTL-0175,C4X Discovery Holdings Limited,Adorial Ltd,C4X Discovery Holdings Limited,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-2F495680,TRT-0033,Cadila Pharmaceuticals Sweden AB,BioChromix NewCo AB,Cadila Pharmaceuticals Sweden AB,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-0B3A18AB,TRT-0019,Calliditas Therapeutics France SAS,Calliditas Therapeutics France SAS; Calliditas Therapeutics France SAS,Calliditas Therapeutics France SAS,2017,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-55D6C790,CTL-0042,Canopy Growth Corp,Beckley Canopy Therapeutics Ltd,Canopy Growth Corp,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-471FA9F5,CTL-0289,Care UK Ltd,Care Uk (UKSH) Ltd,Care UK Ltd,2013,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-A9EC439F,CTL-0303,CareFusion Corp,It’s Interventional Ltd,CareFusion Corp,2012,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-2E901FFA,CTL-0157,Cell Medica Limited,Delenex Therapeutics AG (Inactive),Cell Medica Limited,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-4F4EB61E,CTL-0300,CFAO SA,Missionpharma AS,CFAO SA,2012,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-BA86463E,CTL-0262,"Charles River Laboratories International, Inc.",Argenta Discovery 2009 Ltd (Inactive); BioFocus DPI Limited,"Charles River Laboratories International, Inc.",2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-7BB4B0E7,CTL-0059,Charles River Laboratories International Inc,CiToxLAB Group,Charles River Laboratories International Inc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-7A41CAF3,CTL-0097,Charles River Laboratories International Inc,KWS BioTest Ltd,Charles River Laboratories International Inc,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-42742E3A,CTL-0191,"Charles River Laboratories International, Inc.",Oncotest GmbH,"Charles River Laboratories International, Inc.",2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-5E9A51EB,CTL-0027,Chilcott UK Ltd,POA Pharma Scandinavia AB,Chilcott UK Ltd,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-549EB4B2,CTL-0076,"China Grand Enterprises, Inc.; Huadong Medicine Co Ltd",Sinclair Pharma Ltd,"China Grand Enterprises, Inc.; Huadong Medicine Co Ltd",2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-7B0CE9F3,TRT-0028,Chinook Therapeutics Inc,BioNovion Holding B.V.,Aduro/Chinook,2015,High-confidence innovation-driven,Strict (100%),True
+EVT-77F1841C,CTL-0251,Cilag GmbH International,Covagen AG (Inactive),Cilag GmbH International,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-820E8D97,CTL-0211,Circio Holding ASA,Targovax Oy (Inactive); Circio Holding ASA,Circio Holding ASA,2015,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-3025942C,CTL-0072,Clinigen Ltd,iQone Healthcare Switzerland,Clinigen Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-6329E4B0,CTL-0126,Clinigen Ltd,Quantum Pharmaceutical Ltd,Clinigen Ltd,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-876ACED6,CTL-0009,COC Farmaceutici Srl,Tubilux Pharma SpA,COC Farmaceutici Srl,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-028DE2BC,CTL-0108,Concept Life Sciences Ltd,Aquila BioMedical Ltd,Concept Life Sciences Ltd,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-3AF96138,TRT-0036,Correvio Pharma Corp.,Correvio International Sarl,Correvio Pharma Corp.,2013,Alternative-rationale,Strict (100%),False
+EVT-4A79CF74,CTL-0166,Creat Group Corp,Bio Products Laboratory Ltd,Creat Group Corp,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-574B6BDE,CTL-0205,Curia Global Inc,Gadea Grupo Farmaceutico SL,Curia Global Inc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-75242BFF,CTL-0100,Curida AS,As Produksjonslab AS,Curida AS,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-803D506D,CTL-0030,Curium Holding France SAS,MAP Medical Technologies Oy,Curium Holding France SAS,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-F19A0329,CTL-0088,Deinove SAS,Morphochem AG; Biovertis AG,Deinove SAS,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-9EF1F397,CTL-0147,Delivra Health Brands Inc,Satipharm AG; United Greeneries Holdings Ltd,Delivra Health Brands Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-99C6A82A,CTL-0025,Dermapharm Holding SE,Allergopharma GmbH & Co KG,Dermapharm Holding SE,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-5D0C5D28,CTL-0301,Dermapharm AG,axicorp GmbH,Dermapharm AG,2012,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-E178449A,CTL-0099,Dermapharm AG,Strathmann GmbH & Co KG,Dermapharm AG,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-F14E1E09,CTL-0137,Diamyd Medical AB,NextCell Pharma AB,Diamyd Medical AB,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-3BC97C16,CTL-0102,DSM-Firmenich AG,Biocare Copenhagen AS,DSM-Firmenich AG,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-89AFEDB6,CTL-0040,Emeis SA,Groupe Sinoue,Emeis SA,2019,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-17457F43,CTL-0077,Emergent BioSolutions Inc,Adapt Pharma Ltd,Emergent BioSolutions Inc,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-A36C3881,CTL-0001,Emmes Corp,Neox sro,Emmes Corp,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-1E3BB8DE,TRT-0041,Enara Limited,Angel Care Services UK Ltd,Enara Limited,2012,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-30CE8599,CTL-0118,Ergomed Group Ltd,Ergomed BV,Ergomed Group Ltd,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-105D176F,TRT-0044,Esteve Pharmaceuticals SA,ESTEVE Pharmaceuticals GmbH,Esteve Pharmaceuticals SA,2020,Alternative-rationale,Strict (100%),False
+EVT-CAB0E0C4,CTL-0198,Ethypharm S.A,Ethypharm UK Ltd,Ethypharm S.A,2015,Alternative-rationale,Strict (100%),False
+EVT-7B81B06D,CTL-0081,Eurobio Scientific SA,Dendritics,Eurobio Scientific SA,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-FE6A4C65,CTL-0113,Eurocept Pharmaceuticals,Lucane Pharma SA,Eurocept Pharmaceuticals,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-987DB496,TRT-0039,Eurofins Scientific SE,AROS Applied Biotechnology AS,Eurofins Scientific SE,2013,Alternative-rationale,Broader (majority control-transfer),False
+EVT-BA07C9B6,CTL-0095,Eurofins Scientific SE,Eurofins Selcia Ltd,Eurofins Scientific SE,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-BBB16B30,CTL-0050,EVER Neuro Pharma GmbH,EVER Pharma GmbH,EVER Neuro Pharma GmbH,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-C60A30DD,CTL-0112,EVER Neuro Pharma GmbH,"PHARMAGEN CZ, sro",EVER Neuro Pharma GmbH,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-85CC2A02,CTL-0254,Evotec SE,Evotec (UK) Ltd,Evotec SE,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-FE11E9C9,CTL-0117,Evotec SE,Exscientia Plc,Evotec SE,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-9C1990C9,CTL-0234,F. Hoffmann-La Roche Ltd,Trophos SA,Roche,2015,High-confidence innovation-driven,Strict (100%),False
+EVT-1955B15F,CTL-0071,F. Hoffmann-La Roche Ltd,Tusk Therapeutics Ltd,Roche,2018,High-confidence innovation-driven,Strict (100%),False
+EVT-86C5A526,CTL-0086,Flash Therapeutics SAS,Vectalys SAS (Inactive); FlashCell SAS (Inactive),Flash Therapeutics SAS,2018,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-0E4FBF23,CTL-0110,Fosun Pharmaceutical AG,Tridem Pharma,Fosun Pharmaceutical AG,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B5B51633,CTL-0282,Fuhrer Family,Neovii Biotech GmbH,Fuhrer Family,2013,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-CA9C210A,CTL-0065,Fuji Pharma Co Ltd,Alvotech SA,Fuji Pharma Co Ltd,2018,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-CA4DACC7,CTL-0255,FutureLife a.s,"Gyncentrum, S.R.O.",FutureLife a.s,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-7160F863,CTL-0085,GammaDelta Therapeutics Ltd,Lymphocyte Activation Technologies SA,GammaDelta Therapeutics Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-A21CDE5B,CTL-0148,Genesis Care Pty Ltd,OncoSur Group,Genesis Care Pty Ltd,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-AA4A50BC,CTL-0119,genOway SA,AXENIS SAS,genOway SA,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-57932312,CTL-0189,GROUPE SYNERLAB,Synerlab Group,GROUPE SYNERLAB,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-7C587316,CTL-0229,GSK plc,GlycoVaxyn AG (Inactive),GSK,2015,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-C0FD3AA5,TRT-0038,GSK plc.,ReiThera Srl,GSK,2013,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-C566683F,TRT-0004,Gyroscope Therapeutics Holdings Plc,Orbit Biomedical Inc; Gyroscope Therapeutics Holdings Plc,Gyroscope Therapeutics Holdings Plc,2019,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-DA8631CB,CTL-0146,Heptares Therapeutics Ltd,G7 Therapeutics AG,Heptares Therapeutics Ltd,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-871D2E22,CTL-0258,Herantis Pharma Plc,Laurantis Pharma Oy; Hermo Pharma Oy Ltd; Herantis Pharma Plc,Herantis Pharma Plc,2014,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-C74EB5E0,CTL-0041,Hero Wellbeing Ltd,The Balanced You,Hero Wellbeing Ltd,2019,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-A85D59BA,CTL-0068,HiFiBiO SAS,H-Immune SAS,HiFiBiO SAS,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-780FC2E8,CTL-0203,Hikma Pharmaceuticals PLC,"Roxane Laboratories, Inc. (formerly Philips Roxane); Boehringer Ingelheim Roxane, Inc.",Hikma Pharmaceuticals PLC,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-EE784FDD,CTL-0240,Horizon Discovery Group Ltd,Haplogen GmbH,Horizon Discovery Group Ltd,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-A45F4276,CTL-0261,Horizon Therapeutics Plc.,Vidara Therapeutics International Limited,Horizon Therapeutics Plc.,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-28C43D28,CTL-0295,Hospiten Gestion,MD Anderson International Espana SA,Hospiten Gestion,2012,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-E6D515EF,CTL-0297,"Illumina, Inc.",BlueGnome Ltd,"Illumina, Inc.",2012,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-A82D3DEC,CTL-0062,Immunic Inc,Immunic AG,Immunic Inc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-A14CAAAC,CTL-0247,Immutep Limited,Immutep SA,Immutep Limited,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-93A754BF,TRT-0012,Impilo AB,Ferrosan Medical Devices AS,Impilo AB,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-ADFC914C,CTL-0265,Incanthera Plc,Onco-NX Ltd,Incanthera Plc,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-5F84779B,CTL-0233,Incanthera Plc,Spear Therapeutics,Incanthera Plc,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-99A24F9A,TRT-0008,Ingenza Ltd,Amprologix Ltd,Ingenza Ltd,2018,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-C7237939,CTL-0204,Innokeys Pte Ltd,Oncoscience GmbH,Innokeys Pte Ltd,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-2C139BE5,CTL-0122,Invicro LLC,Imanova Ltd,Invicro LLC,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-4EFF0E8A,CTL-0281,Ipsen S.A.,"Syntaxin, Ltd.",Ipsen S.A.,2013,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-9AEC6A35,CTL-0190,IXICO Plc,Optimal Medicine Ltd,IXICO Plc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-2ACC4BF5,CTL-0171,Jazz Pharmaceuticals Plc,Alize Pharma II SAS,Jazz Pharmaceuticals Plc,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-3FB033BA,CTL-0139,Johnson & Johnson,Actelion Pharmaceuticals Ltd,Johnson & Johnson,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-06CBD95C,CTL-0012,JRH ASI SA,Helix Immuno-Oncology SA,JRH ASI SA,2020,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-68CFDAA8,TRT-0022,Kalvista Pharmaceuticals Inc,Kalvista Pharmaceuticals Ltd,Kalvista Pharmaceuticals Inc,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-5B794750,CTL-0124,Karo Healthcare AB,Weifa ASA,Karo Healthcare AB,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-F56334B8,CTL-0223,Kite Pharma Inc,T-Cell Factory B.V.,Kite Pharma Inc,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-4F61348A,CTL-0034,Klaria Pharma Holding AB,Karessa Pharma Holding AB (Inactive); Klaria Pharma Holding AB,Klaria Pharma Holding AB,2020,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-9B706213,CTL-0033,Klaria Pharma Holding AB,Uppsalagruppen Medical AB,Klaria Pharma Holding AB,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-8AABE049,CTL-0013,Kreditanstalt fur Wiederaufbau,Curevac NV,Kreditanstalt fur Wiederaufbau,2020,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-08171155,TRT-0013,Kuur Therapeutics Ltd,Cell Medica TCR Ltd,Kuur Therapeutics Ltd,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-529B2A43,CTL-0026,Laboratoires Equilibre Attitude,Labcatal,Laboratoires Equilibre Attitude,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-6D1D3934,CTL-0123,Laboratorios Cinfa SA,Orliman SLU,Laboratorios Cinfa SA,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-9188FA70,TRT-0001,Les Laboratoires Servier SAS,Symphogen A/S,Les Laboratoires Servier SAS,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-53A0A4E4,CTL-0045,LifeSpan Biosciences Inc,Nordic-MUbio BV,LifeSpan Biosciences Inc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-384D7FB1,CTL-0231,Linical Americas,Altair Clinical Ltd,Linical Americas,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-4A136C06,CTL-0003,Link Medical Research AS,IRW Consulting AB,Link Medical Research AS,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B234CA77,CTL-0032,Linnane Pharma AB,SelectImmune Pharma AB (Inactive),Linnane Pharma AB,2019,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-70670613,CTL-0226,LivaNova Plc,Sorin S.p.A. (Inactive); LivaNova USA Inc,LivaNova Plc,2015,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-EF84968D,TRT-0021,Martindale Pharma,Viridian Pharma Ltd,Martindale Pharma,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-8C039B4E,CTL-0269;CTL-0270,MediGene AG,Medigene Immunotherapies GmbH,MediGene AG,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-C8E713EF,CTL-0018,Mediolanum farmaceutici SpA,Elsalys Biotech SA,Mediolanum farmaceutici SpA,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-8831DEE3,TRT-0017,Mediolanum farmaceutici SpA,Therabel Pharma SA,Mediolanum farmaceutici SpA,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-287D3F4B,CTL-0039,MeiraGTx Holdings Plc,Arthrogen BV,MeiraGTx Holdings Plc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-C4E90A05,CTL-0004,Mendus AB,DC Prime BV,Mendus AB,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-491D983A,CTL-0279,Merz Pharma GmbH & Co. KGaA,Neocutis S.A.,Merz Pharma GmbH & Co. KGaA,2013,Alternative-rationale,Broader (majority control-transfer),False
+EVT-809BF070,CTL-0219,Mikhail Mogutov,Incuron,Mikhail Mogutov,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-05F75667,CTL-0061,Minaris Regenerative Medicine LLC,Minaris Regenerative Medicine GmbH,Minaris Regenerative Medicine LLC,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-898C778D,CTL-0104,MindWalk Holdings Corp,Modiquest Research BV; Immulease BV,MindWalk Holdings Corp,2018,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-5394AB06,CTL-0267,Minerva Neurosciences Inc,Mind-NRG SA,Minerva Neurosciences Inc,2014,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B25D93F8,CTL-0259,Morood Invest LLC,Care Oncology Clinic,Morood Invest LLC,2014,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-3B7EA6CE,CTL-0069,Mundipharma International Ltd,Mundipharma Biologics SL,Mundipharma International Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-4CF0FBD1,CTL-0225,Myriad Genetics Inc,Privatklinik Dr Robert Schindlbeck GmbH & Co KG,Myriad Genetics Inc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-E063A4B9,CTL-0176,N4 Pharma Plc,N4 Pharma UK Ltd,N4 Pharma Plc,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-67AD81DF,CTL-0043,NEC Corp,NEC OncoImmunity AS,NEC Corp,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-68118A54,CTL-0036,Neopharmed Gentili SpA,MDM SpA,Neopharmed Gentili SpA,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-3A7E2551,CTL-0060,Neuraxpharm UK Ltd,Neuraxpharm Bohemia sro,Neuraxpharm UK Ltd,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-81B7365A,CTL-0082,Neuraxpharm UK Ltd,Neuraxpharm France SAS,Neuraxpharm UK Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-01166516,TRT-0034,Nicox SA,Doliage,Nicox SA,2014,Alternative-rationale,Strict (100%),False
+EVT-A0C68079,CTL-0215,NIOX Group plc,Circassia AB,NIOX Group plc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-493AE6F7,CTL-0214,NIOX Group plc,Prosonix Ltd (Inactive),NIOX Group plc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-8132A2A4,CTL-0163,NMC Health Plc,Copenhagen Fertility Center Holding Aps,NMC Health Plc,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-2580E8B7,CTL-0024,Norgine BV,Azanta A/S,Norgine BV,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-55F3E53B,CTL-0109,Novartis AG,Advanced Accelerator Applications SA,Novartis AG,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-45A76A5C,CTL-0016,Novavax Inc,Novavax CZ,Novavax Inc,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-4546A956,CTL-0306,NovaVision Inc,Sight Science Limited,NovaVision Inc,2012,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-75668D11,CTL-0209,NovoTek Group,Bioton SA,NovoTek Group,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-42B3FBFD,CTL-0120,Nuformix Plc,Nuformix Plc,Nuformix Plc,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-4EAA72F7,CTL-0130,NuPharm Italy SpA,FB Health SpA,NuPharm Italy SpA,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-7C5D7423,CTL-0227,Nxera Pharma Co Ltd,Heptares Therapeutics Ltd,Nxera Pharma Co Ltd,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-FB6A2F96,CTL-0197,Omnicare Holding GmbH & Co KG,Omnicare Holding GmbH & Co KG; Megapharm GmbH,Omnicare Holding GmbH & Co KG,2015,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-48B06FAC,CTL-0286,OPKO Health Inc,Pharmsynthez,OPKO Health Inc,2013,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-5F2D30A1,CTL-0084,Orion Biotechnology Canada Ltd,K2 Biomedical Sp. z o.o.,Orion Biotechnology Canada Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-29208BA4,CTL-0236,Orkla ASA,Orkla Wound Care AB,Orkla ASA,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-F6FD7A3E,CTL-0235,Orkla Home & Personal Care AS,Cederroth AB,Orkla Home & Personal Care AS,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-45EC799E,CTL-0023,Ovoca Bio Plc,Ivix Ltd,Ovoca Bio Plc,2020,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-876981C7,CTL-0266,Oxford Gene Technology Ltd,Cytocell Ltd,Oxford Gene Technology Ltd,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-C81C2C65,CTL-0217,PelGar International Ltd,Agropharm Ltd,PelGar International Ltd,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-367BC7C3,CTL-0091,Perfect Concept Holdings Ltd,China Oncology Focus Ltd,Perfect Concept Holdings Ltd,2018,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-7BFBAAB9,CTL-0280,Perrigo Company plc,"Elan Corporation, plc",Perrigo Company plc,2013,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-6DCE4508,CTL-0243,Perrigo Company plc,Omega Pharma NV,Perrigo Company plc,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-53676CCA,TRT-0003,Pfizer Inc,Therachon AG (Inactive),Pfizer Inc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-89769EB2,CTL-0057,Pfizer Inc,Vivet Therapeutics SAS,Pfizer Inc,2019,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-CDF3BC14,CTL-0152,Pharmstandard-Leksredstva,OTCPharm,Pharmstandard-Leksredstva,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-16F4D866,CTL-0285,Pharmstandard,Biolik JSC,Pharmstandard,2013,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-AFCAB7F4,CTL-0162,Polpharma SA,Polpharma Biologics Utrecht BV,Polpharma SA,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-EA1988B3,CTL-0232,PPF Group NV; SOTIO Biotech AS,Cytune Pharma SAS,PPF Group NV; SOTIO Biotech AS,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-E8E3EE04,CTL-0260,PPF AS,Oribase Pharma,PPF AS,2014,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-3263B088,CTL-0208,Praktikerinvest Aktiebolag; Recipharm Venture Fund AB; The Foundation for Baltic and East European Studies,Palette Life Sciences AB,Praktikerinvest Aktiebolag; Recipharm Venture Fund AB; The Foundation for Baltic and East European Studies,2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-A86B4C32,CTL-0228,Precigen Inc,ActogeniX NV,Precigen Inc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-172E6E4F,CTL-0116,Precision Medicine Group LLC,Epiontis GmbH,Precision Medicine Group LLC,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-72E7DA33,TRT-0035,ProductLife Group,Kohne Pharma GmbH,ProductLife Group,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-8E7C8DE3,CTL-0090,Promethera Biosciences SA,Baliopharm AG,Promethera Biosciences SA,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-170D719C,CTL-0220,Quantum Pharmaceutical Ltd,Lamda Laboratories SA; Lamda Pharma SA,Quantum Pharmaceutical Ltd,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-EA4754F3,CTL-0206,Quantum Pharmaceutical Ltd,NuPharm Laboratories Ltd (Inactive); NuPharm Group Limited (Inactive),Quantum Pharmaceutical Ltd,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-2D4C6B34,CTL-0298,Recordati S.p.A.,FarmaProjekt Sp. z o.o,Recordati,2012,Alternative-rationale,Strict (100%),False
+EVT-101E5ED6,CTL-0278,Recordati S.p.A.,Laboratorios Casen Fleet S.L.,Recordati,2013,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-694CD1B6,CTL-0064,Recordati SpA,Laboratoires Tonipharm,Recordati,2018,Alternative-rationale,Strict (100%),False
+EVT-AD239A0D,TRT-0026,Relief Therapeutics Holding AG; Sonnet BioTherapeutics CH SA,THERAMetrics holding AG (Inactive); Sonnet BioTherapeutics CH SA,Relief Therapeutics Holding AG; Sonnet BioTherapeutics CH SA,2016,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-C33D64C9,CTL-0188,ReproCELL Inc,Biopta Ltd,ReproCELL Inc,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-205F431E,CTL-0051,Revvity Inc,Cisbio Bioassays,Revvity Inc,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-26344903,CTL-0006,Revvity Inc,Horizon Discovery Group Ltd,Revvity Inc,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-6FCF505E,CTL-0257,Riemser Pharma GmbH (formerly RIEMSER Arzneimittel AG),Keocyt SA,Riemser Pharma GmbH (formerly RIEMSER Arzneimittel AG),2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-8E275CCB,CTL-0230,Roche Holding AG,Signature Diagnostics GmbH,Roche,2015,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-A4A38A71,CTL-0138,Roxall Medizin GmbH,Bial-Aristegui Italia Srl,Roxall Medizin GmbH,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-14C06B91,CTL-0080,Ryboquin Co Ltd,Nanogenic Solutions Ltd,Ryboquin Co Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-48682140,CTL-0185,S.A. Mithra pharmaceutical N.V.,Novalon SA,S.A. Mithra pharmaceutical N.V.,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-8D592F1E,CTL-0277,Safic-Alcan SA,Laserson SA,Safic-Alcan SA,2013,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-D49407C8,CTL-0193,SalvaRx Group Plc,SalvaRx Ltd,SalvaRx Group Plc,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-8E3F1F47,CTL-0079,Sangamo Therapeutics Inc,Sangamo Therapeutics France SAS,Sangamo Therapeutics Inc,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-09182F95,TRT-0010,Sanofi,Ablynx NV,Sanofi,2018,High-confidence innovation-driven,Strict (100%),False
+EVT-13A96184,CTL-0180;CTL-0181,SBI Holdings Inc,Photonamic GmbH & Co KG,SBI Holdings Inc,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-7EAAD89A,CTL-0241,Schering-Plough Corp,Oncoethix GmbH (Inactive),Schering-Plough Corp,2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-7EE128BE,CTL-0017,Serb SAS,Veriton Pharma Ltd,Serb SAS,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-B1C72AFE,CTL-0195,Sergej Ovodov; Alexander Knoll,BioGenes GmbH,Sergej Ovodov; Alexander Knoll,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-27796271,TRT-0045,Shire plc (Inactive),Premacure AB,Shire plc (Inactive),2013,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-0EAF157B,CTL-0170,Siemens Healthineers A.G.,NEO New Oncology GmbH,Siemens Healthineers A.G.,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-B0C5E4D8,CTL-0144,Sienna Biopharmaceuticals Inc (Inactive),Creabilis plc (Inactive),Sienna Biopharmaceuticals Inc (Inactive),2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-C7672583,CTL-0253,Simbec-Orion Group Ltd,Simbec Research Ltd; ORION Clinical Services Inc,Simbec-Orion Group Ltd,2014,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-ABBFF059,CTL-0083,Sophia Genetics SA,Interactive Biosoftware SAS,Sophia Genetics SA,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-5FDD4E94,CTL-0174,Spark Therapeutics Inc,Genable Technologies Ltd,Spark Therapeutics Inc,2016,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-9C673E8D,CTL-0094,Spectris Plc,Concept Life Sciences Ltd,Spectris Plc,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-9D1D2F3F,CTL-0008,Stada Arzneimittel AG,LobSor Pharmaceuticals AB,Stada Arzneimittel AG,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-408D3A73,TRT-0030,Stada Arzneimittel AG,SCIOTEC Diagnostic Technologies GmbH,Stada Arzneimittel AG,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-E66CFA34,TRT-0029,Stallergenes Greer Ltd,Greer Laboratories Inc; Stallergenes SA; Stallergenes Greer Ltd,Stallergenes Greer Ltd,2015,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-FD3C5B45,CTL-0035,Stryker Corp,Wright Medical Group NV,Stryker Corp,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-10DA7813,CTL-0149,SuanFarma SA,Companhia Industrial Produtora de Antibioticos SA,SuanFarma SA,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-CCCD93A7,CTL-0101,Summit Therapeutics Inc,Discuva Ltd,Summit Therapeutics Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-38D7BC64,CTL-0186,Swedbank Robur Fonder AB,Camurus AB,Swedbank Robur Fonder AB,2015,Ineligible transaction,Ineligible,False
+EVT-75B16DAD,CTL-0015,Sygnature Discovery Ltd,Alderley Oncology,Sygnature Discovery Ltd,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-354180E3,CTL-0087,Takeda Pharmaceutical Co Ltd,Shire Pharmaceuticals International UC,Takeda Pharmaceutical Co Ltd,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-8BFF2218,TRT-0011,Takeda Pharmaceutical Co Ltd,TiGenix NV,Takeda Pharmaceutical Co Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-1DFF8542,CTL-0194,Tarrex Biopharma Ltd,Aranda Pharma Ltd,Tarrex Biopharma Ltd,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-B640F68D,CTL-0047,Tekni-Plex Inc,Lameplast SpA,Tekni-Plex Inc,2019,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-1946757E,TRT-0009,Telix Pharmaceuticals Ltd,ATLAB Pharma SAS,Telix Pharmaceuticals Ltd,2018,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-4BD02EB4,CTL-0103,Tempest Therapeutics Inc,Alize Pharma,Tempest Therapeutics Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-D98D3B15,CTL-0168,Texcell SA,vivo Science GmbH,Texcell SA,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-75D448A5,CTL-0222,The Foundation for Baltic and East European Studies,Axelar AB (Inactive),The Foundation for Baltic and East European Studies,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-F635769F,CTL-0283,The Medicines Co,ProFibrix BV,The Medicines Co,2013,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-D7305F4C,CTL-0132,Thermo Fisher Scientific Inc,Patheon NV,Thermo Fisher Scientific Inc,2017,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-AED1C91A,TRT-0031,TiGenix NV,Coretherapix SLU,TiGenix NV,2015,High-confidence innovation-driven,Broader (majority control-transfer),False
+EVT-830D4EF9,TRT-0002,Towa Pharmaceutical Co Ltd,"Pensa Investments, S.L.",Towa Pharmaceutical Co Ltd,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-53D9AED9,CTL-0007,Travere Therapeutics Inc,Orphan Technologies Ltd,Travere Therapeutics Inc,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-632A21A3,TRT-0005,TriNetX LLC,Custodix NV,TriNetX LLC,2019,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-F32E3250,CTL-0005,UCB SA,Handl Therapeutics,UCB SA,2020,High-confidence innovation-driven,Strict (100%),False
+EVT-CFB6BB05,CTL-0105,Undisclosed,BioArctic AB,Undisclosed,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-3C64E2EB,CTL-0179,Undisclosed,BioDan Sciences SL,Undisclosed,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-227CF5A8,CTL-0192,Undisclosed,Biomax SA,Undisclosed,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-66BF3C44,CTL-0155,Undisclosed,Bosnalijek dd,Undisclosed,2016,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-038B4B81,CTL-0224,Undisclosed,Dem Ilac San ve Tic AS,Undisclosed,2015,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-A70207E3,CTL-0052,Undisclosed,Genovis AB,Undisclosed,2019,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-95447FFB,CTL-0218,Undisclosed,Kibion AB,Undisclosed,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-627D6CE3,CTL-0111,Undisclosed,Xspray Pharma AB,Undisclosed,2017,Insufficient evidence (not data-carrying),Ineligible,False
+EVT-09A71A9A,CTL-0212,Unimedic AB,Miwana AB,Unimedic AB,2015,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-3916D85E,CTL-0302,Upsher-Smith Laboratories LLC,Proximagen Group Ltd (Inactive),Upsher-Smith Laboratories LLC,2012,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-FB4925D1,CTL-0096,USV Pvt Ltd,Juta Pharma GmbH,USV Pvt Ltd,2018,Alternative-rationale,Strict (100%),False
+EVT-65D701BB,CTL-0107,Vaxart Inc,Vaxart Inc; Vaxart Inc,Vaxart Inc,2018,Mixed / borderline,"Broader (merger, surviving entity)",False
+EVT-57D34A29,CTL-0210,"VBC Holdings, LLC",VivaBioCell SpA,"VBC Holdings, LLC",2015,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-D66A04CB,TRT-0025,Vectura Group Ltd,SkyePharma Ltd; Vectura Group Ltd,Vectura,2016,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-8CEFCEA5,TRT-0024,Vectura Group Limited,Skyepharma PLC,Vectura,2016,Mixed / borderline,Strict (100%),False
+EVT-366076A1,CTL-0263;CTL-0264,Vectura Group Ltd,Vectura GmbH,Vectura,2014,High-confidence innovation-driven,Strict (100%),False
+EVT-A5696C48,CTL-0002,VERAXA Biotech GmbH,Velabs Therapeutics GmbH (Inactive); Araxa Biosciences GmbH (Inactive),VERAXA Biotech GmbH,2020,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-61AF12F1,CTL-0177,Viatris Inc,Meda AB,Viatris Inc,2016,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-585D064B,CTL-0114,Vir Biotechnology Inc,Humabs BioMed SA,Vir Biotechnology Inc,2017,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-F2A3D591,CTL-0276,Xenetic Biosciences Inc,Xenetic Biosciences (UK) Ltd,Xenetic Biosciences Inc,2013,Insufficient evidence (not data-carrying),Strict (100%),False
+EVT-4AA783E7,CTL-0207,Zambon SpA,Nigaard Pharma AS,Zambon SpA,2015,Alternative-rationale,Broader (majority control-transfer),False
+EVT-A208BBB7,CTL-0055,Zentiva Group AS,Creo Pharma Ltd (Inactive),Zentiva,2019,Alternative-rationale,Strict (100%),False
+EVT-7AADF525,CTL-0038,Zentiva Group AS,LaborMed Pharma SA,Zentiva,2020,Alternative-rationale,Strict (100%),False
+EVT-E3ED03D0,CTL-0244,Zogenix Inc (Inactive),Zogenix International Ltd,Zogenix Inc (Inactive),2014,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-13375587,CTL-0294,,Angelini Pharma SpA; Alcavis HDC LLC,,2013,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-3E5A4817,CTL-0142,,Arlenda sa; PharmaLex GmbH,,2017,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-4D1E6674,CTL-0010,,"BIOSTAT SOLUTIONS, INC.; PharmaLex GmbH",,2020,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-09B68014,CTL-0037,,Cato Research LLC (Inactive); Specialized Medical Services-oncology BV (Inactive),,2019,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-C77C8AB1,CTL-0128,,Clinica Baviera SA,,2017,Insufficient evidence (not data-carrying),Broader (majority control-transfer),False
+EVT-68B29D73,CTL-0133,,Complya Consulting Group; PharmaLex GmbH,,2017,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-A8A6466A,CTL-0070,,Fina Biotech SL; Biofina Diagnostics S.L.,,2018,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-622B6C2D,CTL-0153,,Hocoma Ag; DIH International,,2016,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-43600ABA,CTL-0291,,"Isotechnika Pharma, Inc.; Aurinia Pharmaceuticals, Inc.",,2013,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-963A2796,CTL-0159,,Jacobsen Pharma Consultancy AS; PharmaLex GmbH,,2016,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-93315BAF,CTL-0143,,Mosaic Biomedicals SL; Northern Biologics Inc,,2016,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-C0499F04,CTL-0125,,PharmaLex GmbH; McGee Pharma International,,2017,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
+EVT-E9C1057A,CTL-0131,,PharmaLex GmbH; Nordic Health Economics AB,,2017,Insufficient evidence (not data-carrying),"Broader (merger, surviving entity)",False
